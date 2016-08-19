@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Creating new application](creating_new_application.md)
-* Managing existing application
+* [Managing existing application](managing_existing_application.md)
 
