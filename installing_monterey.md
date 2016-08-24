@@ -20,7 +20,10 @@ Click on one of the following buttons to download the Monterey installer
 ![img](http://i.imgur.com/GfjRz2t.png)
 
 ### Mac
-
+1. Open the installer after the download has completed
+2. Drag Monterey to the application folder:  
+    ![img](http://i.imgur.com/Enqlkzz.png)
 
 ### Linux
+
 To be written...
