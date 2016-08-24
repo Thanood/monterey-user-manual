@@ -11,6 +11,8 @@ Click on one of the following buttons to download the Monterey installer
   <img src="http://i.imgur.com/9QnKhAs.png"></img>
 </a>
 
+Depending on the operating system, follow these instructions:
+
 ### Windows
 1. Double click on the installer  
     ![img](http://i.imgur.com/ZKtxz70.png)
