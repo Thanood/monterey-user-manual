@@ -18,7 +18,7 @@ Depending on the operating system, follow these instructions:
     ![img](http://i.imgur.com/ZKtxz70.png)
 2. Wait a few seconds for the installer to do its thing  
   ![img](http://i.imgur.com/G6Vs9Q1.png)
-3. Monterey starts after the installation is complete. The installer adds a shortcut to Monterey to your desktop  
+3. Monterey automatically starts up after the installation is complete. The installer adds a shortcut to Monterey to your desktop  
 ![img](http://i.imgur.com/GfjRz2t.png)
 
 ### Mac
