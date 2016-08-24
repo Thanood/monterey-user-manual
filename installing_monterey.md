@@ -23,6 +23,8 @@ Click on one of the following buttons to download the Monterey installer
 1. Open the installer after the download has completed
 2. Drag Monterey to the application folder:  
     ![img](http://i.imgur.com/Enqlkzz.png)
+3. After Monterey has been copied, launch Monterey via the App launcher:  
+     ![img](http://i.imgur.com/KGEF2xd.png)
 
 ### Linux
 
