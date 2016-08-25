@@ -7,7 +7,7 @@
    * [skeleton-esnext-webpack](creating_new_application/skeleton-esnext-webpack.md)
    * [skeleton-esnext](creating_new_application/skeleton-esnext.md)
    * [skeleton-typescript-aspnetcore](creating_new_application/skeleton-typescript-aspnetcore.md)
-   * skeleton-typescript-webpack
+   * [skeleton-typescript-webpack](creating_new_application/skeleton-typescript-webpack.md)
 * [Managing existing application](managing_existing_application.md)
 * [Installing Monterey](installing_monterey.md)
 
