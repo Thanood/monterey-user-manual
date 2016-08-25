@@ -4,7 +4,7 @@
 * [Creating new application](creating_new_application.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
    * [skeleton-esnext-aspnetcore](creating_new_application/skeleton-esnext-aspnetcore.md)
-   * skeleton-esnext-webpack
+   * [skeleton-esnext-webpack](creating_new_application/skeleton-esnext-webpack.md)
 * [Managing existing application](managing_existing_application.md)
 * [Installing Monterey](installing_monterey.md)
 
