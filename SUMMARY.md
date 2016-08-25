@@ -4,7 +4,7 @@
 * [Creating new application](creating_new_application.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
        * [Default-ESNext](creating_new_application/Aurelia-CLI/default-esnext.md)
-       * Default-TypeScript
+       * [Default-TypeScript](creating_new_application/Aurelia-CLI/default-typescript.md)
    * [skeleton-esnext-aspnetcore](creating_new_application/skeleton-esnext-aspnetcore.md)
    * [skeleton-esnext-webpack](creating_new_application/skeleton-esnext-webpack.md)
    * [skeleton-esnext](creating_new_application/skeleton-esnext.md)
