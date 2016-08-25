@@ -43,10 +43,11 @@
 
 <br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/17977669/9a8e8052-6ac0-11e6-82a3-2d74387cf12d.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/17981382/8225b0f6-6ad1-11e6-9c32-3404398a1d8c.png"></img>
  <br><br>
-  Image 6
+ Image 6
 </p>
+
 
 
 
