@@ -30,12 +30,16 @@ Image 1
  <br><br>
 Image 2
 </p>
-
+<br>
 
 3. **Monterey automatically starts up after the installation is complete. The installer adds a shortcut to Monterey to your desktop**
- <br><br>  
-![img](http://i.imgur.com/GfjRz2t.png)
+<br>
+<p align=center>
+  <img src="http://i.imgur.com/GfjRz2t.png"></img>
  <br><br>
+Image 3
+</p>
+<br>
 
 ### Mac
 1. Open the installer after the download has completed
