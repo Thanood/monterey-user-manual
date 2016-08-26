@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Installing Monterey](installing_monterey.md)
 * [Creating new application](creating_new_application.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
        * [Default-ESNext](creating_new_application/Aurelia-CLI/default-esnext.md)
@@ -14,5 +15,4 @@
    * [skeleton-typescript](creating_new_application/skeleton-typescript.md)
    * [ZIP](creating_new_application/zip.md)
 * [Managing existing application](managing_existing_application.md)
-* [Installing Monterey](installing_monterey.md)
 
