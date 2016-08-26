@@ -49,11 +49,18 @@ Image 3
 <p align=center>
   <img src="http://i.imgur.com/Enqlkzz.png"></img>
  <br><br>
-Image 2
+Image 1
 </p>
 <br>
+
 3. After Monterey has been copied, launch Monterey via the App launcher:  
-     ![img](http://i.imgur.com/KGEF2xd.png)
+<br>
+<p align=center>
+  <img src="http://i.imgur.com/KGEF2xd.png"></img>
+ <br><br>
+Image 2
+</p>
+
 
 ### Linux
 
