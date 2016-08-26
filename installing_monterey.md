@@ -43,8 +43,15 @@ Image 3
 
 ### Mac
 1. Open the installer after the download has completed
+   <br>
 2. Drag Monterey to the application folder:  
-    ![img](http://i.imgur.com/Enqlkzz.png)
+<br>
+<p align=center>
+  <img src="http://i.imgur.com/Enqlkzz.png"></img>
+ <br><br>
+Image 2
+</p>
+<br>
 3. After Monterey has been copied, launch Monterey via the App launcher:  
      ![img](http://i.imgur.com/KGEF2xd.png)
 
