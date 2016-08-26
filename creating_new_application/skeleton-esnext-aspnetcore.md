@@ -14,3 +14,11 @@ Image 1
 Image 2
 </p>
 
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18010814/22f5440c-6b80-11e6-9f6e-518806e47010.png"></img>
+ <br><br>
+Image 3
+</p>
+
+
