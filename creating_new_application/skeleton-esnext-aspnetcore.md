@@ -35,4 +35,12 @@ Image 4
 Image 5
 </p>
 
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18010908/a2b77f0c-6b80-11e6-842c-dfdd247d9a73.png"></img>
+ <br><br>
+Image 6
+</p>
+
+
 
