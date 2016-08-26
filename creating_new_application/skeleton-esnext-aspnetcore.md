@@ -7,3 +7,10 @@
 Image 1
 </p>
 
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18010784/02aa9ba2-6b80-11e6-90b5-0c7de5eb8b07.png"></img>
+ <br><br>
+Image 2
+</p>
+
