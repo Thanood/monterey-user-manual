@@ -14,12 +14,24 @@ Click on one of the following buttons to download the Monterey installer
 Depending on the operating system, follow these instructions:
 
 ### Windows
-1. Double click on the installer  
-    ![img](http://i.imgur.com/ZKtxz70.png)
-2. Wait a few seconds for the installer to do its thing  
+1. **Double click on the installer**
+<br>
+<p align=center>
+  <img src="http://i.imgur.com/ZKtxz70.png"></img>
+ <br><br>
+Image 1
+</p>
+
+
+   
+2. **Wait a few seconds for the installer to do its thing** 
+  <br><br> 
   ![img](http://i.imgur.com/G6Vs9Q1.png)
-3. Monterey automatically starts up after the installation is complete. The installer adds a shortcut to Monterey to your desktop  
+
+3. **Monterey automatically starts up after the installation is complete. The installer adds a shortcut to Monterey to your desktop**
+ <br><br>  
 ![img](http://i.imgur.com/GfjRz2t.png)
+ <br><br>
 
 ### Mac
 1. Open the installer after the download has completed
