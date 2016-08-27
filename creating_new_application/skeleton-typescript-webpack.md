@@ -42,6 +42,21 @@ Image 5
 Image 6
 </p>
 
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18030120/7060d310-6c79-11e6-8857-0393a6df8fcb.png"></img>
+ <br><br>
+Image 7
+</p>
+
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18030128/a681ab7c-6c79-11e6-8a0a-c1007a7232d4.png"></img>
+ <br><br>
+Image 8
+</p>
+
+
 
 
 
