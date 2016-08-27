@@ -37,6 +37,41 @@ Image 4
 Image 5
 </p>
 
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18029752/eb70ecda-6c6e-11e6-8a35-299f6925ed7b.png"></img>
+ <br><br>
+Image 6
+</p>
+
+***
+
+### Next few screens show failed attempts to run `gulp watch` 
+
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18029871/6dc36a2a-6c72-11e6-891d-69b04d29503d.png"></img>
+ <br><br>
+Image 7
+</p>
+
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18029875/9cdc74d2-6c72-11e6-94b2-5000ab71e6a6.png"></img>
+ <br><br>
+Image 8
+</p>
+
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18029878/c20e874a-6c72-11e6-891c-c30c0d043b5c.png"></img>
+ <br><br>
+Image 9
+</p>
+
+
+
+
 
 
 
