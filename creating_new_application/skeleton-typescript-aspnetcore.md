@@ -16,6 +16,14 @@ Image 2
 </p>
 <br>
 
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18029733/640b26ac-6c6e-11e6-864e-1bfb984e236b.png"></img>
+ <br><br>
+Image 3
+</p>
+
+
 
 
 
