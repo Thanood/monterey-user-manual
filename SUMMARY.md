@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Installing Monterey](installing_monterey.md)
 * [Creating new application](creating_new_application.md)
+   * [skeleton-esnext](creating_new_application/skeleton-esnext.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
        * [skeleton-esnext](creating_new_application/skeleton-esnext.md)
        * [skeleton-esnext-webpack](creating_new_application/skeleton-esnext-webpack.md)
