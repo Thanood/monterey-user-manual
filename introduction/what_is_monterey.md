@@ -1,3 +1,3 @@
 # What is Monterey
 
-As mentioned in the **[Introduction](../introduction.md)** chapter, it is advisable to read the [Monterey overview](https://aurelia-ui-toolkits.gitbooks.io/monterey-overview/content/) document before using this User maanual with intent to create new or manage existing Aurelia applications. This recommendation is the consequence of the fact that Monterey is a very unique tool, that requires some familiarization. 
+As mentioned in the **[Introduction](../introduction.md)** chapter, it is advisable to read the **[Monterey overview](https://aurelia-ui-toolkits.gitbooks.io/monterey-overview/content/)** document before using this User maanual with intent to create new or manage existing Aurelia applications. This recommendation is the consequence of the fact that Monterey is a very unique tool, that requires some familiarization. 
