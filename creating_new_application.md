@@ -8,7 +8,9 @@ Current Monterey supports several different templates for new application creati
  <br><br>
 Image 1
 </p>
+<br><br>
+The Aurelia-CLI template is intentionally on the first place as it is the most popular method for Aurelia application creation, despite its initial limitation to support a single module loader (RequireJS). In order to maximize the power if Aurelia-CLI, Monterey completely depends on this tool, acting as its Visual "proxy" - a fact that any existing Aurelia-CLI user will immediately recognize while providing the answers to Monterey presenting the application creation Wizard.
 
-The Aurelia-CLI template is intentionally on the first place as it is the most popular method for Aurelia application creation, despite its initial limitation to support a single module loader (RequireJS)
+
 
 
