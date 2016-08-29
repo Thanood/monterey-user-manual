@@ -9,4 +9,9 @@ Monterey's Aurelia-CLI template supports all "native" [Aurelia-CLI command line 
  <br>
 </p>
 
+<br>
+
 The implementation of this Monterey's plugin is using the Aurelia-CLI API, giving it the right to be called as Visual Aurelia-CLI, since it replaces the original's command line interface with the form based wizard that allows a lot richer navigation. 
+
+***
+***
