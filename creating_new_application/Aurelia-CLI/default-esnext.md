@@ -22,13 +22,16 @@ The next required data is the definition of the application's name (Image 2). Th
 
 <br>
 
-At this point the user is asked to choose between the several Aurelia-CLI templates (three at the time of writing this document; this number will increase as the [Aurelia-CLI command line tool](https://github.com/aurelia/cli/blob/master/README.md) evolves. 
+At this point (Image 3) the user is asked to choose between the several Aurelia-CLI templates (three at the time of writing this document; this number will increase as the [Aurelia-CLI command line tool](https://github.com/aurelia/cli/blob/master/README.md) evolves. 
 
+<br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17971561/53178bc2-6aa9-11e6-8f51-3f9a8a5f3189.png"></img>
  <br><br>
   Image 3
 </p>
+
+The selected "Default ESNext" template is completely defined at this point and Monterey creates the **Project configuration** summary page (Image 4)
 
 <br>
 <p align=center>
