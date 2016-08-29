@@ -11,6 +11,7 @@ Rather than creating yet another Integrated Development Environment (IDE) applic
  <br><br>
 Image 1
 </p>
+
 <br>
 
 Monterey acts as a hub with Graphical User Interface which allows activation of each integrated tool (often referred to as `tile`). In this initial implementation, the application developer is in charge of "playing the tiles" in a meaningful sequence, in order to start from a blank slate and end with a working application.
