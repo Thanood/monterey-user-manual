@@ -16,5 +16,6 @@
    * [skeleton-typescript-webpack](creating_new_application/skeleton-typescript-webpack.md)
    * [skeleton-typescript](creating_new_application/skeleton-typescript.md)
    * [ZIP](creating_new_application/zip.md)
+   * Creation pattern
 * [Managing existing application](managing_existing_application.md)
 
