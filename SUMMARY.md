@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
    * [What is Monterey](introduction/what_is_monterey.md)
+   * Quick guide through the User manual
 * [Installing Monterey](installing_monterey.md)
 * [Creating new application](creating_new_application.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
