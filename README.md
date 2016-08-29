@@ -4,5 +4,5 @@
 
 <h1 style="text-align: center;">Monterey user manual</h1>
 
-This document contains the information about how to use the Monterey application management tool to create new applications or maintain the existing ones. In order to get better acquainted with Monterey we suggest to start with **[Monterey overview](https://www.gitbook.com/book/aurelia-ui-toolkits/monterey-overview/content)**. There is also a third document, [Monterey technical documentation](https://www.gitbook.com/book/aurelia-ui-toolkits/monterey-technical-documentation/content) written for developers that are interested in contributing to the [Monterey project](https://github.com/monterey-framework) on GitHub
+This document contains the information about how to use the Monterey application management tool to create new applications or maintain the existing ones. In order to get better acquainted with Monterey we suggest to start with **[Monterey overview](https://www.gitbook.com/book/aurelia-ui-toolkits/monterey-overview/content)**. There is also a third document, **[Monterey technical documentation](https://www.gitbook.com/book/aurelia-ui-toolkits/monterey-technical-documentation/content)** written for developers that are interested in contributing to the **[Monterey project](https://github.com/monterey-framework)** on GitHub
 
