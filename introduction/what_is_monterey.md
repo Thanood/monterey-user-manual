@@ -18,7 +18,7 @@ Monterey acts as a hub with Graphical User Interface which allows activation of 
 Monterey's interactions with the integrated tools go beyond activation - monterey's mimics the human operator, and collects the information from one tile with the intent to pass it to the next.
 <br><br>
 
-As an **example**, check the `selecting the application template` on Image 3 in the [Creating the application]() article:
+As an example check the `selecting the application template` on Image 3 in the [Creating the application](https://aurelia-ui-toolkits.gitbooks.io/monterey-overview/content/introduction/alpha.html) article:
 
 <br><br>
 
