@@ -22,6 +22,7 @@ The next required data is the definition of the application's name (Image 2). Th
 
 <br>
 
+At this point the user is asked to choose between the several Aurelia-CLI templates (three at the time of writing this document; this number will increase as 
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17971561/53178bc2-6aa9-11e6-8f51-3f9a8a5f3189.png"></img>
