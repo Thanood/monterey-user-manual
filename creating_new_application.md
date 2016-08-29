@@ -11,15 +11,13 @@ Image 1
 <br><br>
 The Aurelia-CLI template is intentionally on the first place as it is the most popular method for Aurelia application creation, despite its initial limitation to support a single module loader (RequireJS). In order to maximize the power if Aurelia-CLI, Monterey completely depends on this tool, acting as its Visual "proxy" - a fact that any existing Aurelia-CLI user will immediately recognize while providing the answers to Monterey presenting the application creation Wizard.
 
-<br>
 
 In order to increase the spectrum of supported applications, Monterey adds all six existing **[Aurelia Navigation Skeletons](https://github.com/aurelia/skeleton-navigation)** as application creation templates. These templates present you with the "CLI-like" interface and offer you to use JSPM loader (skeleton-esnext template)
 
-<br>
+
 
 The last category of templates is accessible wia **ZIP** entry on the project templates list. As you will see, this is the most universal template as it allows you to use any existing Aurelia project as the base. As the example of that template use, please check the [ZIP](./creating_new_application/zip.html) page of this document.
 
-<br>
 
 All subsections of this chapter are written the same way - lots of screen-shots and as little text as possible, provided only where the continuity between consecutive screen-shots is needed. While this approach requires a lot of redundant information - it also allows that each section is without any references or jumps to a page that would contain the information common to all subsections. 
 
