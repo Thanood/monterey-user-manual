@@ -17,3 +17,7 @@ Each new application created from a template follows the same basic pattern, whi
   <img src="https://cloud.githubusercontent.com/assets/2712405/18069509/a171ee06-6e15-11e6-9b35-04eb541b0c86.png"></img>
  <br>
 </p>
+
+### 3. A, B, C (Aurelia-CLI specific steps only)
+
+___We have a problem here as there is no easy way back from the page that we call Monterey workflow page. We can uncheck the pre-checked boxes that will result with invocation of npm, jspm etc. - but that allows only "close" action, while I would like to be able to go back.___
