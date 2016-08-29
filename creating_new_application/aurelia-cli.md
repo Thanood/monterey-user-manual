@@ -1,3 +1,4 @@
+_Creating new application_
 # Aurelia-CLI
 
 ***Monterey uses Aurelia-CLI tool behind the scenes***
