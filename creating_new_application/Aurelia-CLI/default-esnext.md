@@ -1,5 +1,7 @@
 # Default-ESNext
 
+Like all Monterey application creation wizards, the process starts with the definition of the location where the application will be persisted. Note the red "number-markers" which indicate the sequence of mouse click needed to invoke the Files Explorer, select the folder and move to the wizard's next step.
+
 <br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17971413/c562a758-6aa8-11e6-8d9a-fbe1a1d0cad8.png"></img>
