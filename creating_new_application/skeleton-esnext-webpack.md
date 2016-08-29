@@ -1,4 +1,4 @@
-Creating new application
+_Creating new application_
 # skeleton-esnext-webpack
 
 <br>
