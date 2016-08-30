@@ -1,4 +1,4 @@
-_Creating new application_
+_Creating new application_ | _Aurelia-CLI_
 # Default-TypeScript
 
 <br>
