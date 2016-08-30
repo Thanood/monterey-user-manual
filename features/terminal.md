@@ -1,4 +1,5 @@
-# Terminal
+_Features_
+### Terminal
 
 It is possible to start terminals from Monterey, by clicking the "Terminal" button in the taskbar.
 
