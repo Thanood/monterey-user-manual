@@ -10,3 +10,6 @@ Image 2
 </p>
 
 This chapter provides more details on these plugins.
+
+***
+***
