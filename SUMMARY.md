@@ -18,4 +18,5 @@
    * [skeleton-typescript](creating_new_application/skeleton-typescript.md)
    * [ZIP](creating_new_application/zip.md)
 * [Managing existing application](managing_existing_application.md)
+* Features
 
