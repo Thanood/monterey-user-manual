@@ -8,7 +8,7 @@
    * [App launcher](features/app_launcher.md)
    * [NPM manager](features/npm_manager.md)
    * [JSPM manager](features/jspm_manager.md)
-   * Project info
+   * [Project info](features/project_info.md)
 * [Creating new application](creating_new_application.md)
    * [Creation pattern](creating_new_application/creation_pattern.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
