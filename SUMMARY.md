@@ -7,6 +7,7 @@
 * [Features](features.md)
    * [App launcher](features/app_launcher.md)
    * [NPM manager](features/npm_manager.md)
+   * JSPM manager
 * [Creating new application](creating_new_application.md)
    * [Creation pattern](creating_new_application/creation_pattern.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
