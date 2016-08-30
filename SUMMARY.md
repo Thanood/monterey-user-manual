@@ -4,6 +4,7 @@
    * [What is Monterey](introduction/what_is_monterey.md)
    * [Quick guide through the User manual](introduction/quick_guide_through_the_user_manual.md)
 * [Installing Monterey](installing_monterey.md)
+* Features
 * [Creating new application](creating_new_application.md)
    * [Creation pattern](creating_new_application/creation_pattern.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
@@ -18,5 +19,4 @@
    * [skeleton-typescript](creating_new_application/skeleton-typescript.md)
    * [ZIP](creating_new_application/zip.md)
 * [Managing existing application](managing_existing_application.md)
-* Features
 
