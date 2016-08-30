@@ -10,8 +10,14 @@ _Features_
 ![tile](http://i.imgur.com/mWoUbnk.png)
 
 **Screen:**
-![img](http://i.imgur.com/RnCGEbc.png)
+<br>
+<p align=center>
+  <img src="http://i.imgur.com/RnCGEbc.png"></img>
+ <br><br>
 Image 1
+</p>
+
+
 
 <br>
 
@@ -42,10 +48,15 @@ Each app launcher has a title, icon and command. The icon can be a URL pointing 
 <br>
 
 **Browse launchers**  
-Monterey has a registery of app launchers that is maintained outside of the application. The browser can be opened via the "Get more" button:
-
-![img](http://i.imgur.com/KduRCpn.png)
+Monterey has a registery of app launchers that is maintained outside of the application. The browser can be opened via the **`Get more`** button:
+<br>
+<p align=center>
+  <img src="http://i.imgur.com/KduRCpn.png"></img>
+ <br><br>
 Image 2
+</p>
+
+<br>
 
 From here you can search by name, and click the "install" button for the app launchers that you would like to install. After clicking the "install button" you will notice that the launcher was added to the "Launchers" list. From here you can modify some of the default parameters of the app launcher to fit your needs.
 
@@ -53,7 +64,14 @@ From here you can search by name, and click the "install" button for the app lau
 
 **Share launchers**  
 We welcome anyone to create app launchers and share them with the rest of the community. By clicking the "Share this app launcher" button, the following screen will inform you of the steps to take:
-![img](http://i.imgur.com/vAEaqoV.png)
+
+<br>
+<p align=center>
+  <img src="http://i.imgur.com/vAEaqoV.png"></img>
+ <br><br>
+Image 3
+</p>
+
 After review the app launcher will show up in the browser (image 2).
 
 
