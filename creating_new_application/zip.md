@@ -1,96 +1,58 @@
 _Creating new application_
-# ZIP
+# GitHub
 
 <br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18037166/679c4cbe-6d4b-11e6-9202-a392143a08f3.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18107997/5409d23c-6ed8-11e6-97dd-cc82c1bb2b1c.png"></img>
  <br><br>
 Image 1
 </p>
 
+
 <br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18037175/a8def488-6d4b-11e6-90bc-bb3088878c1f.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18107800/71e539be-6ed7-11e6-8bb5-1b095d259682.png"></img>
  <br><br>
 Image 2
 </p>
 
 <br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18037181/cfc88dde-6d4b-11e6-94f7-e80236b62d61.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18108061/997b6722-6ed8-11e6-8c1f-7d5884505682.png"></img>
  <br><br>
 Image 3
 </p>
 
 <br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18037190/ff0e3a30-6d4b-11e6-8339-6f270a5cc844.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18108133/f2735790-6ed8-11e6-9661-288bd065cdd8.png"></img>
  <br><br>
 Image 4
 </p>
 
+
 <br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18037195/1e216e06-6d4c-11e6-905e-90f0dfe7afcf.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18108259/8465d218-6ed9-11e6-80fa-35b7c680a3eb.png"></img>
  <br><br>
 Image 5
 </p>
 
 <br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18037206/50870414-6d4c-11e6-857a-b6ef0d7a16ef.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18108367/e7ba5474-6ed9-11e6-9aec-45b59b8f8723.png"></img>
  <br><br>
 Image 6
 </p>
 
 <br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18037209/78dfda30-6d4c-11e6-9124-2d37374e8c47.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18108395/0443b7ac-6eda-11e6-812f-8ca14078b095.png"></img>
  <br><br>
 Image 7
 </p>
 
-<br>
-<p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18039321/ca98b612-6d6f-11e6-8117-1e72ddc8477a.png"></img>
- <br><br>
-Image 8
-</p>
 
-<br>
-<p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18039333/efb8dd00-6d6f-11e6-951c-280e067421d2.png"></img>
- <br><br>
-Image 9
-</p>
-
-<br>
-<p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18039348/14264e2a-6d70-11e6-99b7-4dea76acb752.png"></img>
- <br><br>
-Image 10
-</p>
-
-<br>
-<p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18039382/67110b5c-6d70-11e6-9d00-e48ff75dd8a3.png"></img>
- <br><br>
-Image 11
-</p>
-
-<br>
-<p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18039401/8a9e9b20-6d70-11e6-9aec-cd94302b0e39.png"></img>
- <br><br>
-Image 12
-</p>
-
-<br>
-<p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18039411/a74eaeb8-6d70-11e6-8efd-c0246e74f2a9.png"></img>
- <br><br>
-Image 13
-</p>
 
 
 
