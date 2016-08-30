@@ -32,7 +32,6 @@ Image 3
 Image 4
 </p>
 
-
 <br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18108259/8465d218-6ed9-11e6-80fa-35b7c680a3eb.png"></img>
