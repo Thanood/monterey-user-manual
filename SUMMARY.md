@@ -12,6 +12,7 @@
    * [GistRun](features/gistrun.md)
    * [Task manager](features/task_manager.md)
    * [Terminal](features/terminal.md)
+   * Error logger
 * [Creating new application](creating_new_application.md)
    * [Creation pattern](creating_new_application/creation_pattern.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
