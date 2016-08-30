@@ -31,7 +31,9 @@ At this point (Image 3) the user is asked to choose between the several Aurelia-
   Image 3
 </p>
 
-The selected "Default ESNext" template is completely defined at this point and Monterey creates the **Project configuration** summary page (Image 4)
+<br>
+
+The selected "Default ESNext" template is completely defined at this point and Monterey creates the **Project configuration** summary page (Image 4). You can go back through all steps that led to the Project configuration definition, if you realize that some of the specifications in any of these previous steps are not correct
 
 <br>
 <p align=center>
@@ -39,6 +41,12 @@ The selected "Default ESNext" template is completely defined at this point and M
  <br><br>
   Image 4
 </p>
+
+<br>
+
+At this point we reached the most important step of the Monterey wizard - page where will eventually reside the **Monterey workflow plugin**. At this time you see the workflow's "place-holder" implemented as a list of check-boxes presenting the list of application build options that are meaningful in the given context. As Monterey gets able to handle a lot more complex tasks (managing creation, building, testing and deployment tasks of several tens of applications at the same time, the concept of the "workflow of workflows" will be the best way to ansure correct and meaningful definition of all of these tasks running in a conflict-free fashion.
+
+The concrete example here is very simple: run the equivalence of `npm install` and `jspm install` tasks executed in the serial fashion in the console, by invoking npm and jspm API. This execution is triggered by the click on the `Start` button (Image 5)
 
 <br>
 <p align=center>
