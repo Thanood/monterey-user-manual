@@ -1,6 +1,6 @@
 _Features_
 
-<h3 style="float: left">App launchers</h3>
+<h3 style="float: left">App launcher</h3>
 <p style="float: left">
   <img src="https://cloud.githubusercontent.com/assets/2712405/17079177/0f3c9aa6-50d6-11e6-82c3-0e30d92ff5f2.png" width="50"></img>
 </p>
