@@ -5,7 +5,7 @@
    * [Quick guide through the User manual](introduction/quick_guide_through_the_user_manual.md)
 * [Installing Monterey](installing_monterey.md)
 * [Features](features.md)
-   * App launcher
+   * [App launcher](features/app_launcher.md)
 * [Creating new application](creating_new_application.md)
    * [Creation pattern](creating_new_application/creation_pattern.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
