@@ -9,8 +9,17 @@ _Features_
 **Tile:**  
 ![img](http://i.imgur.com/tFgJ34c.png)
 
+<br>
+
 **Screen:**
-![screen](http://i.imgur.com/RQLwdVc.png)
+<br>
+<p align=center>
+  <img src="http://i.imgur.com/RQLwdVc.png"></img>
+ <br><br>
+Image 1
+</p>
+
+
 
 <br>
 
@@ -18,7 +27,14 @@ _Features_
 The main goal of the NPM Package Manager screen is to give you insight into the set of NPM dependencies of your application. Not only does Monterey display a list of dependencies, Monterey will look up the latest version and will match it with the currently installed version. By using two different colors (green and red), a visual representation of your dependencies' versions is displayed.
 
 Currently, there are 3 actions that can be performed from the NPM package manager screen:  
-![buttons](http://i.imgur.com/tLk5A2k.png)
+
+<p align=center>
+  <img src="http://i.imgur.com/tLk5A2k.png"></img>
+ <br><br>
+Image 2
+</p>
+
+<br>
 
 The install button will run the equivalent of `npm install`, installing all dependencies using the version declared in package.json, without updating them. The install button can be used to install dependencies for new applications.
 
