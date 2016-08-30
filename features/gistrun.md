@@ -9,6 +9,7 @@ _Features_
 **Tile:**  
 ![tile](http://i.imgur.com/5xFxHF8.png)
 
+<br>
 **Description:**  
 GistRun is defined as:
 > GistRun runs and edits GitHub Gists (surprise). GistRun is built with Aurelia, uses the GitHub API and is hosted on GitHub pages. CloudFlare provides DNS and Heroku hosts GistRun's integration with GitHub's OAuth web application flow. Many thanks to the providers of these free libraries and services!
