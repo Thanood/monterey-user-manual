@@ -1,3 +1,4 @@
+_Creating new application_
 # Creation pattern
 
 Uniformity is a good property for any tool - Monterey being a lot more complex than most tools existing on the market is designed from the ground up to offer very intuitive and consistent user experience.
