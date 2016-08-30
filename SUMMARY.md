@@ -6,7 +6,7 @@
 * [Installing Monterey](installing_monterey.md)
 * [Features](features.md)
    * [App launcher](features/app_launcher.md)
-   * NPM manager
+   * [NPM manager](features/npm_manager.md)
 * [Creating new application](creating_new_application.md)
    * [Creation pattern](creating_new_application/creation_pattern.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
