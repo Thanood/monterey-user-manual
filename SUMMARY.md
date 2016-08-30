@@ -10,7 +10,7 @@
    * [JSPM manager](features/jspm_manager.md)
    * [Project info](features/project_info.md)
    * [GistRun](features/gistrun.md)
-   * Task manager
+   * [Task manager](features/task_manager.md)
 * [Creating new application](creating_new_application.md)
    * [Creation pattern](creating_new_application/creation_pattern.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
