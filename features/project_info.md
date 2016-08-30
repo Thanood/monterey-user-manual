@@ -9,8 +9,14 @@ _Features_
 **Tile:**  
 ![tile](http://i.imgur.com/sCLoYgJ.png)
 
+<br>
 **Screen:**
-![img](http://i.imgur.com/5J3qhBe.png)
+<br>
+<p align=center>
+  <img src="http://i.imgur.com/5J3qhBe.png"></img>
+ <br><br>
+Image 1
+</p>
 
 <br>
 
