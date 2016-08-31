@@ -1,6 +1,8 @@
 _Creating new application_ | _Aurelia-CLI_
 # Default-TypeScript
 
+Like all Monterey application creation wizards, the process starts with the definition of the location where the application will be persisted (Image 1). Note the red "number-markers" which indicate the sequence of mouse click needed to invoke the Files Explorer, select the folder and move to the wizard's next step.
+
 <br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17984002/77ce6524-6add-11e6-8ed5-b33fc0fe0637.png"></img>
@@ -9,11 +11,19 @@ Image 1
 </p>
 
 <br>
+
+The next required data is the definition of the application's name (Image 2). This is the name that will appear on the Monterey's list-view of all open applications. Since this same name will be used as the name of the folder where the application "lives", this name needs to be unique. Observe that Monterey verifies each proposed application name for uniqueness.
+
+<br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17984042/a7029464-6add-11e6-9270-dc2b38e19ba2.png"></img>
  <br><br>
 Image 2
 </p>
+
+<br>
+
+At this point (Image 3) the user is asked to choose between the several Aurelia-CLI templates (three at the time of writing this document) This number will increase as the [Aurelia-CLI command line tool](https://github.com/aurelia/cli/blob/master/README.md) evolves. In this example the Default TypeScript template was selected (marker 1) and the action continues with the Project configuration view (Image 4) as the consequence of the click on the `Next` button (marker 2)
 
 <br>
 <p align=center>
