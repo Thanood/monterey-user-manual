@@ -3,6 +3,8 @@
 _Creating new application_ | _GitHub_
 # Contact-manager-tutorial
 
+The process starts with the definition of the location where the application will be persisted (Image 1). Note the red "number-markers" which indicate the sequence of mouse click needed to invoke the Files Explorer, select the folder and move to the wizard's next step.
+
 <br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18107997/5409d23c-6ed8-11e6-97dd-cc82c1bb2b1c.png"></img>
@@ -10,6 +12,9 @@ _Creating new application_ | _GitHub_
 Image 1
 </p>
 
+<br>
+
+This template is persisted in GitHub (note this approach can result with a huge number of templates, with very easy assess as the next screen-shot (Image 2) shows
 
 <br>
 <p align=center>
