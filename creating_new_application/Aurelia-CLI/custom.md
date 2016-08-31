@@ -143,6 +143,9 @@ Image 14
 </p>
 
 <br>
+
+As the `npm install` task typically takes several minutes, we provided a cool little game activated by a click on the `T-rex` button (bottom right corner of the Task manager view
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17987362/8e974856-6aed-11e6-8e7b-699e376887b8.png"></img>
  <br><br>
