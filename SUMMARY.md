@@ -4,6 +4,7 @@
    * [What is Monterey](introduction/what_is_monterey.md)
    * [Quick guide through the User manual](introduction/quick_guide_through_the_user_manual.md)
 * [Installing Monterey](installing_monterey.md)
+* [Preferences](preferences.md)
 * [Features](features.md)
    * [App launcher](features/app_launcher.md)
    * [NPM manager](features/npm_manager.md)
@@ -28,5 +29,4 @@
    * [GitHub](creating_new_application/zip.md)
        * [Contact-manager-tutorial](github/contact-manager-tutorial.md)
 * [Managing existing application](managing_existing_application.md)
-* [Preferences](preferences.md)
 
