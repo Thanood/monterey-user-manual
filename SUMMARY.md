@@ -28,4 +28,5 @@
    * [GitHub](creating_new_application/zip.md)
        * [Contact-manager-tutorial](github/contact-manager-tutorial.md)
 * [Managing existing application](managing_existing_application.md)
+* Preferences
 
