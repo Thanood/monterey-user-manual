@@ -183,6 +183,9 @@ Image 18
 </p>
 
 <br>
+
+Now, let's switch back to the main view, so we can (again) invoke the Task manager (Image 19, marker 1) with the intent to run the just built application.
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17987505/446edefa-6aee-11e6-81f8-8136b563b869.png"></img>
  <br><br>
