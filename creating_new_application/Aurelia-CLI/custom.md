@@ -1,5 +1,7 @@
 _Creating new application_ | _Aurelia-CLI_
 # Custom
+Like all Monterey application creation wizards, the process starts with the definition of the location where the application will be persisted (Image 1). Note the red "number-markers" which indicate the sequence of mouse click needed to invoke the Files Explorer (marker 1) navigate it to the right location (marke3 2), select the folder (marker 3) and by that, define the location path.
+
 <br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17986728/234d84be-6aea-11e6-8320-0c10376ef56c.png"></img>
