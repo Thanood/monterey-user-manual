@@ -153,6 +153,9 @@ Image 15
 </p>
 
 <br>
+
+This "CPU load graph" (Image 16) demonstrates how "heavy" is a typical load imposed by running `npm` application.
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17987392/bc070e20-6aed-11e6-976c-4aa1392ed057.png"></img>
  <br><br>
