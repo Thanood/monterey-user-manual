@@ -174,7 +174,7 @@ Image 17
 
 <br>
 
-At this point, the NPM manager is a lot "smarter" 
+At this point, the NPM manager is a lot "smarter" and provides the insight into the set of NPM dependencies of this application. Besideds displaying the list of dependencies, Monterey will look up the latest version and will match it with the currently installed version. By using two different colors (green and red), a visual representation of your dependencies' versions is displayed.
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17987453/1281d9c4-6aee-11e6-8215-03378c0dfe59.png"></img>
