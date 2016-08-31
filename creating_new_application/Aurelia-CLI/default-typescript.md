@@ -40,6 +40,12 @@ Image 4
 </p>
 
 <br>
+
+Now (Image 5), we reached the most important step of the Monterey wizard - page where will eventually reside the Monterey workflow plugin. At this time you see the workflow's "place-holder" implemented as a list of check-boxes presenting the list of application build options that are meaningful in the given context. As Monterey gets able to handle a lot more complex tasks (managing creation, building, testing and deployment tasks of several tens of applications at the same time, the concept of the "workflow of workflows" will be the best way to ensure correct and meaningful definition of all of these tasks running in a conflict-free fashion.
+
+The concrete example here is very simple: run the equivalence of **`npm install`** (marker 1), by invoking npm API. This execution is triggered by the click on the Start button (Image 5). Note also that the `au run --watch` task is also scheduled for execution once `npm install` task finishes.
+
+<br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17984209/3a639b18-6ade-11e6-872b-a1c901cb0200.png"></img>
  <br><br>
@@ -47,11 +53,19 @@ Image 5
 </p>
 
 <br>
+
+Image 6 depicts the task `npm install` running for 4 seconds.
+
+<br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17984278/75d9190c-6ade-11e6-9dc2-392938520b8b.png"></img>
  <br><br>
 Image 6
 </p>
+
+<br>
+
+Finally, once the `au run --watch` task is finished, you can close the Task manager, and click on the Chrome tile on the main view - resulting with the running app (Image 7)
 
 <br>
 <p align=center>
