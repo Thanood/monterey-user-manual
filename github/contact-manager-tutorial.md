@@ -26,7 +26,7 @@ Image 2
 
 <br>
 
-Observe that Monterey "understands" the structure of the repository with the template we want to use and offers you to select a folder where the template "lives" (`original` in this case) as shown on Image 3
+Observe that Monterey "understands" the structure of the repository with the template we want to use and offers you to select a folder where the template "lives" (`original` in this case), as shown on Image 3
 
 <br>
 <p align=center>
