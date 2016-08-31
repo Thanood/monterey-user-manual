@@ -36,7 +36,7 @@ Image 3
 
 <br>
 
-Click on the `Next` button on Image 3, Monterey prompts for the name of the application to be created, using the chosen folder name as the placeholder.
+Click on the `Next` button on Image 3, Monterey prompts for the name of the application to be created (Image 4), using the chosen folder name as the placeholder. In this situation, we should accept this name.
 
 <br>
 <p align=center>
@@ -46,12 +46,21 @@ Image 4
 </p>
 
 <br>
+
+Click on the `Next` button (marker 1 on Image 4) results with the project's configuration  view (Image 5)
+
+<br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18108259/8465d218-6ed9-11e6-80fa-35b7c680a3eb.png"></img>
  <br><br>
 Image 5
 </p>
 
+<br>
+
+We are at the very important point in the "conversation" with the Monterey wizard, because the click on the `Next` button (marker 1 on Image 5) will result with Monterey's **workflow form** (Image 6). While at this time, this form is a simple listview enumerating the steps needed to build this app, this will eventually become a real, user programmable workflow - one of Monterey's most attractive features.
+
+In this specific case, please accept all options, ensuring that the build process will start as soon as you click on the `Next` button (marker 1 on Image 5)
 <br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18108367/e7ba5474-6ed9-11e6-9aec-45b59b8f8723.png"></img>
