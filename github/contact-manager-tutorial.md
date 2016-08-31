@@ -14,7 +14,7 @@ Image 1
 
 <br>
 
-This template is persisted in GitHub (note that this approach can result with a huge number of templates, with very easy access as the next screen-shot (Image 2) shows: you simply copy the repository URL into clipboard and then paste it in the `Github URL1 field as shown on Image 3.
+This template is persisted in GitHub (note that this approach can result with a huge number of templates, with very easy access as the next screen-shot (Image 2) shows: you simply copy the repository URL into clipboard and then paste it in the `GitHub URL` field as shown on Image 3.
 
 <br>
 <p align=center>
@@ -24,11 +24,19 @@ Image 2
 </p>
 
 <br>
+
+Observe that Monterey "understands" the structure of the repository with the template we want to use and offers you to select a folder where the tamplate "lives" (`original` in this case) as shown on Image 3
+
+<br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18108061/997b6722-6ed8-11e6-8c1f-7d5884505682.png"></img>
  <br><br>
 Image 3
 </p>
+
+<br>
+
+Click on the `Next` button on Image 3, Monterey prompts for the name of the application to be created, using the chosen folder name as the placeholder.
 
 <br>
 <p align=center>
