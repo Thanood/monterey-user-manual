@@ -14,7 +14,7 @@ Image 1
 
 <br>
 
-This template is persisted in GitHub (note this approach can result with a huge number of templates, with very easy assess as the next screen-shot (Image 2) shows
+This template is persisted in GitHub (note that this approach can result with a huge number of templates, with very easy access as the next screen-shot (Image 2) shows:
 
 <br>
 <p align=center>
