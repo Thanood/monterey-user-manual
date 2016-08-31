@@ -102,7 +102,7 @@ Image 10
 <br>
 
 
-Here (Image 11) we can see the effect of requesting to see `irrelevant tiles` which are shown with diagonal stripes - indicating that all these tiles cannot play any role in this specific project. This proves that Monterey has the ability to recognize any project's type (Aurelia-CLI in our case).
+Here (Image 11) we can see the effect of requesting to see `irrelevant tiles` which are shown with diagonal stripes - indicating that all these tiles cannot play any role in this specific project. This proves that Monterey has the ability to recognize any project's type (Aurelia-CLI in our case). See **[Monterey technical documentation - Project detection](https://aurelia-ui-toolkits.gitbooks.io/monterey-technical-documentation/content/project_detection.html)** for more details.
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17987221/cdd13780-6aec-11e6-993c-767339ef3a0b.png"></img>
@@ -163,6 +163,9 @@ Image 16
 </p>
 
 <br>
+
+After 239 seconds (on a very fast machine) the NPM install task finally ended (Image 17). Close the Task manager (marker 1), so we can see what changed as the consequence of running NPM install.
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17987419/e97b3958-6aed-11e6-9306-3d347848437b.png"></img>
  <br><br>
@@ -170,6 +173,9 @@ Image 17
 </p>
 
 <br>
+
+At this point, the NPM manager is a lot "smarter" 
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17987453/1281d9c4-6aee-11e6-8215-03378c0dfe59.png"></img>
  <br><br>
