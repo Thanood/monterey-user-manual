@@ -133,6 +133,9 @@ Image 13
 </p>
 
 <br>
+
+This screenshot (Image 14, below) is a snapshot of the running `npm install` task, with the embedded console showing the details of this running task.
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17987327/5569740a-6aed-11e6-9484-41bd3a7089cb.png"></img>
  <br><br>
