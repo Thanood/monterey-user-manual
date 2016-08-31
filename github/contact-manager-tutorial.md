@@ -2,6 +2,7 @@
 
 _Creating new application_ | _GitHub_
 # Contact-manager-tutorial
+This application is the full implementation of Aurelia's [Contact Manager Tutorial](http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/contact-manager-tutorial) used as the teaching tool for a new [web or SPA developer](http://aurelia.io/hub.html#/doc/persona/new-developer).
 
 The process starts with the definition of the location where the application will be persisted (Image 1). Note the red "number-markers" which indicate the sequence of mouse click needed to invoke the Files Explorer, select the folder and move to the wizard's next step.
 
@@ -63,6 +64,7 @@ We are at the very important point in the "conversation" with the Monterey wizar
 Another important point: Monterey is fully capable to detect the "type" of each project - in this case, it recognized that this project is created by Aurelia-CLI and will **automatically create the content of this workflow form**.
 
 In this specific case, please accept all options, ensuring that the build process will start as soon as you click on the `Next` button (marker 1 on Image 6)
+
 <br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18108367/e7ba5474-6ed9-11e6-9aec-45b59b8f8723.png"></img>
@@ -72,7 +74,9 @@ Image 6
 
 <br>
 
-The build process started and invoked Monterey **Task Manager** which will show the progress of this build (note that the subsequent tasks `fetch tasks` and `au run --watch` are scheduled for the execution next (Image 7, down-facing arrow)
+The build process started and invoked Monterey **Task Manager** which will show the progress of this build (note that the subsequent tasks `fetch tasks` and `au run --watch` are scheduled for the execution next (Image 7, down-facing arrow).
+
+Note also the enabled check-box regulating the behavior of the embedded console, which provides the detailed information of the build process.
 
 <br>
 <p align=center>
@@ -82,11 +86,19 @@ Image 7
 </p>
 
 <br>
+
+This next screenshot (Image 8) was taken nearly 8 minutes after the build process finished and the `au run --watch` task was created. At this point, the reasonable next step would be to **close** Task manager view (Image 8, marker 1), resulting with the "main view" (Image 9)
+
+<br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18108425/24d76ef0-6eda-11e6-9ba1-dbacfa54db7a.png"></img>
  <br><br>
 Image 8
 </p>
+
+<br>
+
+Monterey is also able to find out the running application's URL - meaning that you just have to click on the `Chrome tile` (Image 9, marker 1) in order to see the application running (Image 10)
 
 <br>
 <p align=center>
@@ -103,11 +115,18 @@ Image 10
 </p>
 
 <br>
+
+Finally, open the Task Manager view again (Image 11) and use the context menu based `End task` command to terminate the `au run --watch` process.
+
+<br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18108673/4e1177ec-6edb-11e6-981c-2bbf570a51c5.png"></img>
  <br><br>
 Image 11
 </p>
+
+***
+***
 
 
 
