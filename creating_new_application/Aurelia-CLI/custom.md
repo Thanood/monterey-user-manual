@@ -10,11 +10,19 @@ Image 1
 </p>
 
 <br>
+
+The next required data is the definition of the application's name (Image 2). This is the name that will appear on the Monterey's list-view of all open applications. Since this same name will be used as the name of the folder where the application "lives", this name needs to be unique. Observe that Monterey verifies each proposed application name for uniqueness.
+
+<br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17986764/5f872ade-6aea-11e6-8fd4-7ffb08f3a999.png"></img>
  <br><br>
 Image 2
 </p>
+
+<br>
+
+At this point (Image 3) the user is asked to choose between the several Aurelia-CLI templates (three at the time of writing this document; this number will increase as the [Aurelia-CLI command line tool](https://github.com/aurelia/cli/blob/master/README.md) evolves.In this case we will select the Custom template (marker 1), which is currently the most customizable Aurelia-CLI template.
 
 <br>
 <p align=center>
