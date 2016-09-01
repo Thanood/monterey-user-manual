@@ -194,7 +194,7 @@ Image 19
 
 <br>
 
-We can see that the NPM install task finished (Image 20, marker 1 - something we already knew), so select the `au run --watch` task (marker 2) from the list of meaningful tasks in this context and click on the `Start this task` button (marker 3) 
+We can see that the NPM install task finished (Image 20, marker 1 - something we already knew), so select the `au run --watch` task (marker 2) from the list of meaningful tasks in this context and click on the `Start this task` button (marker 3).
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17987536/6dbc0e68-6aee-11e6-8d04-0842d3aadc93.png"></img>
