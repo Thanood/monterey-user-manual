@@ -43,6 +43,9 @@ Image 4
 </p>
 
 <br>
+
+Image 5 shows the Task manager indicating the task NPM install being executed (running for 13 seconds so far) and the embedded console provides the `npm` streaming log.
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18011580/cbd793ba-6b83-11e6-8522-ef57a7dafbe8.png"></img>
  <br><br>
@@ -50,6 +53,9 @@ Image 5
 </p>
 
 <br>
+
+At this point the application build process reached the `npm start` step, which invoked the Webpack loader to start the application, running at the port 9000.
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18011629/f07f8376-6b83-11e6-984f-ccf6d676221e.png"></img>
  <br><br>
@@ -57,12 +63,17 @@ Image 6
 </p>
 
 <br>
+
+Pointing the browser to `http://localhost:9000` results with expected outcome:
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18011696/33a1fe90-6b84-11e6-858e-402c1476d060.png"></img>
  <br><br>
 Image 7
 </p>
 
+***
+***
 
 
 
