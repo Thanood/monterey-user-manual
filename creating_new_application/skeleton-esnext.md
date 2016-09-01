@@ -55,6 +55,33 @@ Image 5
 </p>
 
 <br>
+
+Click on the `Start` button on Image 5, marker 1 above causes the switch of the Monterey's view - from the "workflow" to the Monterey **Task manager** view (Image 6). This is the most often used Monterey integrated tool, which is the controlling and management entity for handling all running Monterey applications. At this time we have a single application (`Default-ESNext`) running, and you can see that the currently running task is `NPM install`, which will be followed by two more tasks. You can also see the embedded console showing the line-by-line progress of the currently running .`NPM install` task.
+
+Note that Monterey is designed to be able to run many tasks in parallel - this view is restricted to show only the information for the selected project (`skeleton-esnext`).
+
+Task manager, being aware of this application context and state, proposes two most likely used tasks - `gulp prepare release` and `gulp watch` (marker 1). Click on `gulp watch` button.
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18187345/a6f5fff8-7076-11e6-9d4c-05e50d693ccd.png"></img>
+ <br><br>
+Image 6
+</p>
+
+<br>
+
+Image 7 shows the Task manager showing the details of the `gulp watch` task - which ended with the message: "Description: Project running at `http://localhost:9000`"
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18187457/af02de7c-7077-11e6-864a-54316e4aeabf.png"></img>
+ <br><br>
+Image 7
+</p>
+<br>
+
+<br>
+
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18024549/3fcc8daa-6bdb-11e6-9a5d-0fb3c5185aed.png"></img>
  <br><br>
