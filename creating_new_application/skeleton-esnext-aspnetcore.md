@@ -1,6 +1,8 @@
 _Creating new application_
 # skeleton-esnext-aspnetcore
+Note the red "number-markers" which indicate the sequence of mouse clicks.
 
+Start by selecting the template `skeleton-esnext-webpack` (Image 1, marker 1).Then continue with the definition of the location where the application will be persisted (marker 2). This action will invoke the Files Explorer, where you have to define the folder (marker 3) and click on the `Select folder` button (marker 4) to define the location where the application will be stored.
 <br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18010757/e503ce70-6b7f-11e6-82f8-d7125d0601c9.png"></img>
