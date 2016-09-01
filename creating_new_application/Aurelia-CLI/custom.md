@@ -213,13 +213,7 @@ This Task manager view (Image 21) shows that the application is running (`au run
 Image 21
 </p>
 
-
-<br>
-<p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/17987661/1b0f1d1c-6aef-11e6-88bb-dcfcff04225d.png"></img>
- <br><br>
-Image 22
-</p>
+___more to come___
 
 ***
 ***
