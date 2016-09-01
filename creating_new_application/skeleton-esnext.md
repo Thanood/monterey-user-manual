@@ -1,7 +1,9 @@
 _Creating new application_
 # skeleton-esnext
+Note the red "number-markers" which indicate the sequence of mouse clicks.
 
-<br>
+Start by selecting the template `skeleton-esnext-webpack`(Image 1, marker 1).Then continue with the definition of the location where the application will be persisted (marker 2).  This action will invoke the Files Explorer, where you have to define the folder (marker 3) and click on the `Select folder` button to define the location where the application will be stored.
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18024429/1833667c-6bd8-11e6-9335-e284bc2784fa.png"></img>
  <br><br>
@@ -9,6 +11,9 @@ Image 1
 </p>
 
 <br>
+
+Having defined the path to the folder where the application is stored, click one the `Next` button (marker 1, Image 2).
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18024432/41d06f52-6bd8-11e6-9189-0ef37df4b662.png"></img>
  <br><br>
