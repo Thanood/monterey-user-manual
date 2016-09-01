@@ -38,10 +38,6 @@ The concrete example here is simple: run the equivalence of **`npm install`** (m
 
 This execution is triggered by the click on the Start button (marker 2).
 
-<br>
-
-
-
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18010871/66e778b0-6b80-11e6-86d5-67684d064183.png"></img>
  <br><br>
