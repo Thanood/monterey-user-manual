@@ -42,13 +42,12 @@ Image 4 shows the completed project's configuration, offering the choice between
 Image 4
 </p>
 
-<b>
+<br>
 
 Now (Image 5), we reached the most important step of the Monterey wizard - page where will eventually reside the Monterey **workflow** plugin. At this time you see the workflow's "place-holder" implemented as a list of check-boxes presenting the list of application build options that are meaningful in the given context. As Monterey gets able to handle a lot more complex tasks (managing creation, building, testing and deployment tasks of several tens of applications at the same time, the concept of the "workflow of workflows" will be the best way to ensure correct and meaningful definition of all of these tasks running in a conflict-free fashion.
 
 The concrete example here is rather simple: run the equivalence of **`npm install`**, **`jspm install`**, **`load the app` and **`gulp watch`** tasks, by invoking respective API (action different from invoking the same service using the console). This execution is triggered by the click on the Start button (marker 1).
 
-<br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18024482/65e11f62-6bd9-11e6-8139-bb0b3ab28644.png"></img>
  <br><br>
