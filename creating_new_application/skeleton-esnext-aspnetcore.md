@@ -32,37 +32,30 @@ Image 3
 
 <br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18010840/411dd016-6b80-11e6-8437-d1bb37a5d92a.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18010871/66e778b0-6b80-11e6-86d5-67684d064183.png"></img>
  <br><br>
 Image 4
 </p>
 
 <br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18010871/66e778b0-6b80-11e6-86d5-67684d064183.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18010908/a2b77f0c-6b80-11e6-842c-dfdd247d9a73.png"></img>
  <br><br>
 Image 5
 </p>
 
 <br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18010908/a2b77f0c-6b80-11e6-842c-dfdd247d9a73.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18010957/e7d2e66c-6b80-11e6-8020-a25aa5af99da.png"></img>
  <br><br>
 Image 6
 </p>
 
 <br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18010957/e7d2e66c-6b80-11e6-8020-a25aa5af99da.png"></img>
- <br><br>
-Image 7
-</p>
-
-<br>
-<p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18011009/1c2e9e6a-6b81-11e6-944c-92381fd0d5c4.png"></img>
  <br><br>
-Image 8
+Image 7
 </p>
 
 ***
