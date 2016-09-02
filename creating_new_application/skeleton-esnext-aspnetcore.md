@@ -29,7 +29,7 @@ Since the project structure is completely defined at this point (remember, Monte
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18219578/a71bfb0a-7138-11e6-99ac-31644521de27.png"></img>
  <br><br>
-Image 2
+Image 3
 </p>
 
 <br>
