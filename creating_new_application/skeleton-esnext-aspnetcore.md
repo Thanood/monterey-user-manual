@@ -83,13 +83,24 @@ Image 8
 
 <br>
 
-Observe that the task **`dotnet run`** finished and shows the URL to access the just built application.
+Observe that the task **`dotnet run`** finished and shows the URL to access the just built application - see Image 10, below.
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18219920/67ecdf8c-713b-11e6-994c-707d40054267.png"></img>
  <br><br>
 Image 9
 </p>
+
+<br>
+
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18219980/ec5314b2-713b-11e6-81c5-438e03044130.png"></img>
+ <br><br>
+Image 10
+</p>
+
+
 
 
 
