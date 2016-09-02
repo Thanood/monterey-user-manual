@@ -1,5 +1,8 @@
 _Creating new application_
 # skeleton-typescript-aspnetcore
+Note the red "number-markers" which indicate the sequence of mouse clicks.
+
+Start by selecting the template `skeleton-esnext-aspnetcore` (Image 1, marker 1).Then continue with the definition of the location where the application will be persisted (marker 2). This action will invoke the Files Explorer, where you have to define the folder (marker 3) and click on the `Select folder` button (marker 4) to define the location where the application will be stored.
 
 <br>
 <p align=center>
