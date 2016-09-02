@@ -54,7 +54,7 @@ Image 5
 
 <br>
 
-At this point the application build process reached the `npm start` step, which invoked the Webpack loader to start the application, running at the port 9000.
+At this point the application build process reached the `npm start` step, which invoked the Webpack loader to start the application, running at the port 9000. Dismiss the Task manager by clicking on the `Close` button (marker 1).
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030120/7060d310-6c79-11e6-8857-0393a6df8fcb.png"></img>
@@ -63,6 +63,9 @@ Image 6
 </p>
 
 <br>
+
+In the Main view (Image 7, below) click on the `Chrome tile`, knowing that Monterey will invoke it with the URL of the just started app running at port 9000.
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030128/a681ab7c-6c79-11e6-8a0a-c1007a7232d4.png"></img>
  <br><br>
