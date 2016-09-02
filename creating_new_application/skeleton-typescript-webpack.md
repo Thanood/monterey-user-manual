@@ -53,6 +53,9 @@ Image 5
 </p>
 
 <br>
+
+At this point the application build process reached the `npm start` step, which invoked the Webpack loader to start the application, running at the port 9000.
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030120/7060d310-6c79-11e6-8857-0393a6df8fcb.png"></img>
  <br><br>
