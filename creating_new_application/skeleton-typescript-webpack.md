@@ -1,7 +1,9 @@
 _Creating new application_
 # skeleton-typescript-webpack
+Note the red "number-markers" which indicate the sequence of mouse clicks.
 
-<br>
+Start by selecting the template `skeleton-esnext-webpack`(Image 1, marker 1).Then continue with the definition of the location where the application will be persisted (marker 2).  This action will invoke the Files Explorer, where you have to define the folder (marker 3) and click on the `Select folder` button to define the location where the application will be stored.
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18029972/466d41e6-6c75-11e6-8ede-85f351ddb760.png"></img>
  <br><br>
