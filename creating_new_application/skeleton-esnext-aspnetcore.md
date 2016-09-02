@@ -13,10 +13,10 @@ Image 1
 
 <br>
 
-Note that Monterey will offer the name of the project, so click on the `Next` button (marker 1) to accept the name and move to the next step.
+Note that Monterey will offer the name of the project, so click on the **`Next`** button (marker 1) to accept the name and move to the next step.
 
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18010784/02aa9ba2-6b80-11e6-90b5-0c7de5eb8b07.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18219535/5296fad0-7138-11e6-95a2-8f546eb78f07.png"></img>
  <br><br>
 Image 2
 </p>
