@@ -43,6 +43,9 @@ Image 4
 </p>
 
 <br>
+
+Image 5 shows the Task manager indicating the task NPM install being executed (running for 10 seconds so far) and the embedded console provides the `npm` streaming log.
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030112/43c55e48-6c79-11e6-9ee0-d68d67d9288a.png"></img>
  <br><br>
