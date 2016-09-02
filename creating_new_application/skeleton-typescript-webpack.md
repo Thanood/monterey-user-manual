@@ -101,11 +101,17 @@ Image 10
 </p>
 
 <br>
+
+The **`x`** preceding the `npm start` list entry indicates that this task (`npm start`) was successfully ended.
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030151/438db67c-6c7a-11e6-8a3b-544074764c67.png"></img>
  <br><br>
 Image 11
 </p>
+
+***
+***
 
 
 
