@@ -120,6 +120,17 @@ Shut the application down
 Image 12
 </p>
 
+<br>
+
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18220095/c0f7c172-713c-11e6-9a1b-36e2ec563fc4.png"></img>
+ <br><br>
+Image 2
+</p>
+
+
+
 
 
 
