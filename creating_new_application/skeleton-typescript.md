@@ -76,6 +76,9 @@ Image 7
 </p>
 
 <br>
+
+Click on the `Close` button on Image 7 above, will result with closing the Task manager view, making the Main view visible. Click on the Chrome tile (Image 8, marker 1) to see the running app in that browser instance (Image 9, below)
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18035096/36815450-6d1c-11e6-9293-e45bd7acb50a.png"></img>
  <br><br>
@@ -88,6 +91,9 @@ Image 8
  <br><br>
 Image 9
 </p>
+
+***
+***
 
 
 
