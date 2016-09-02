@@ -126,7 +126,17 @@ Image 12
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18220095/c0f7c172-713c-11e6-9a1b-36e2ec563fc4.png"></img>
  <br><br>
-Image 2
+Image 13
+</p>
+
+<br>
+
+Ending the **`gulp watch`** task as well
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18220116/f7a9bf68-713c-11e6-8f00-3c0c1aae4509.png"></img>
+ <br><br>
+Image 14
 </p>
 
 
