@@ -73,11 +73,18 @@ Image 7
 </p>
 
 <br>
+
+Image 8 depicts Montery and Chrome running the app. The nice "side by side" layout is not created by Monterey, it is man made for the sake of this presentation.
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030134/d4926420-6c79-11e6-86ab-758172da93fb.png"></img>
  <br><br>
 Image 8
 </p>
+
+<br>
+
+In order to stop the still running `npm start` process, click on the Task manager icon on the Monterey toolbar (Image 9, marker 1), which indicates that one task is running.
 
 <br>
 <p align=center>
