@@ -34,14 +34,13 @@ Image 3
 
 <br>
 
-Now (Image 4), we reached the most important step of the Monterey wizard - page where will eventually reside the Monterey **workflow** plugin. At this time you see the workflow's "place-holder" implemented as a list of check-boxes presenting the list of application build options that are meaningful in the given context. As Monterey gets able to handle a lot more complex tasks (managing creation, building, testing and deployment tasks of several tens of applications at the same time, the concept of the "workflow of workflows" will be the best way to ensure correct and meaningful definition of all of these tasks running in a conflict-free fashion.
+Now (Image 4), we reached the most important step of the Monterey wizard - page where will eventually reside the Monterey **workflow** plugin. At this time you see the workflow's "place-holder" implemented as a "treeview" of check-boxes presenting the ordered list of application build options that are meaningful in the given context. As Monterey gets able to handle a lot more complex tasks (managing creation, building, testing and deployment tasks of several tens of applications at the same time, the concept of the "workflow of workflows" will be the best way to ensure correct and meaningful definition of all of these tasks running in a conflict-free fashion.
 
-The concrete example here is simple: run the equivalence of **`npm install`** (marker 1), and **`jspm install`** by invoking npm and jspm API (action different from invoking the same service using the console). The last "workflow" step is of course **`gulp watch`**
+Click on the **`Start`** button (marker 1) initiates the application build and run workflow - as described in **[Running The App without Visual Studio](https://github.com/aurelia/skeleton-navigation/blob/master/skeleton-esnext-aspnetcore/src/skeleton/README.md#running-the-app-without-visual-studio)** article.
 
-This execution is triggered by the click on the Start button (marker 2).
-
+<br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18010871/66e778b0-6b80-11e6-86d5-67684d064183.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18219629/16fcf7e4-7139-11e6-9384-e1339afba343.png"></img>
  <br><br>
 Image 4
 </p>
