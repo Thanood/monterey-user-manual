@@ -4,7 +4,6 @@ Note the red "number-markers" which indicate the sequence of mouse clicks.
 
 Start by selecting the template `skeleton-esnext-aspnetcore` (Image 1, marker 1).Then continue with the definition of the location where the application will be persisted (marker 2). This action will invoke the Files Explorer, where you have to define the folder (marker 3) and click on the `Select folder` button (marker 4) to define the location where the application will be stored.
 
-<br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18028256/f990485a-6c47-11e6-8a89-741920ca8a02.png"></img>
  <br><br>
