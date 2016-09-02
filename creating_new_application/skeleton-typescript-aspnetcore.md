@@ -9,9 +9,11 @@ Start by selecting the template `skeleton-esnext-aspnetcore` (Image 1, marker 1)
  <br><br>
 Image 1
 </p>
-<br>
 
 <br>
+
+Note that Monterey will offer the name of the project, so click on the `Next` button (marker 1) to accept the name and move to the next step.
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18028266/2539871e-6c48-11e6-8611-9290ee5226de.png"></img>
  <br><br>
