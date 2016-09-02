@@ -45,29 +45,56 @@ Image 4
 </p>
 
 <br>
+
+The next 6 screenshots depict the snapshots of the workflow pipeline - and probably need not additional explanations:
+
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18010908/a2b77f0c-6b80-11e6-842c-dfdd247d9a73.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18219757/3a158a06-713a-11e6-9843-6eef611768dd.png"></img>
  <br><br>
 Image 5
 </p>
 
 <br>
+
+<br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18010957/e7d2e66c-6b80-11e6-8020-a25aa5af99da.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18219844/d65bb818-713a-11e6-8af7-57b44da11835.png"></img>
  <br><br>
 Image 6
 </p>
 
 <br>
+
+<br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18011009/1c2e9e6a-6b81-11e6-944c-92381fd0d5c4.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18219860/04fe26e2-713b-11e6-8fcd-75f0cb7590de.png"></img>
  <br><br>
 Image 7
 </p>
 
-***
+<br>
 
-### More screenshots to be added soon ...
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18219885/2baefbae-713b-11e6-9576-90a9faaa709a.png"></img>
+ <br><br>
+Image 8
+</p>
+
+<br>
+
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18219920/67ecdf8c-713b-11e6-994c-707d40054267.png"></img>
+ <br><br>
+Image 9
+</p>
+
+
+
+
+
+
 
 
 
