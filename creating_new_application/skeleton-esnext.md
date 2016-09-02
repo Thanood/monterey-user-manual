@@ -77,13 +77,10 @@ Image 7 shows the Task manager showing the details of the `gulp watch` task - wh
  <br><br>
 Image 7
 </p>
-<br>
 
 <br>
 
-Click on the `Close` button on Image 7 above, will result with closing the Task manager view, making the Main view visible. Click on the Chrome tile (Image 8, marker 1) to see the running app in that browser instance.
-
-<br>
+Click on the `Close` button on Image 7 above, will result with closing the Task manager view, making the Main view visible. Click on the Chrome tile (Image 8, marker 1) to see the running app in that browser instance (Image 9, below)
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18024549/3fcc8daa-6bdb-11e6-9a5d-0fb3c5185aed.png"></img>
@@ -91,7 +88,12 @@ Click on the `Close` button on Image 7 above, will result with closing the Task 
 Image 8
 </p>
 
-
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18188289/05923a38-707f-11e6-904e-27a788fc9781.png"></img>
+ <br><br>
+Image 9
+</p>
 
 
 
