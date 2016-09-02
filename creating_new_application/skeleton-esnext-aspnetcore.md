@@ -38,7 +38,6 @@ Now (Image 4), we reached the most important step of the Monterey wizard - page 
 
 Click on the **`Start`** button (marker 1) initiates the application build and run workflow - as described in **[Running The App without Visual Studio](https://github.com/aurelia/skeleton-navigation/blob/master/skeleton-esnext-aspnetcore/src/skeleton/README.md#running-the-app-without-visual-studio)** article.
 
-<br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18219629/16fcf7e4-7139-11e6-9384-e1339afba343.png"></img>
  <br><br>
