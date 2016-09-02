@@ -110,6 +110,17 @@ More detailed view of Image 10
 Image 11
 </p>
 
+<br>
+
+Shut the application down
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18220069/84a17b00-713c-11e6-8199-36e632ba95fe.png"></img>
+ <br><br>
+Image 12
+</p>
+
+
 
 
 
