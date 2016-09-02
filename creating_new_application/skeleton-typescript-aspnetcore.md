@@ -19,9 +19,11 @@ Note that Monterey will offer the name of the project, so click on the `Next` bu
  <br><br>
 Image 2
 </p>
-<br>
 
 <br>
+
+Since the project structure is completely defined at this point (remember, Monterey has successfuly parsed all configuration information that is defined in this **[skeleton](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-typescript-aspnetcore)** folder), you are presented with Monterey's view of the project configuration (Image 3). Click on the `Next` button (marker 1) to proceed 
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18029733/640b26ac-6c6e-11e6-864e-1bfb984e236b.png"></img>
  <br><br>
