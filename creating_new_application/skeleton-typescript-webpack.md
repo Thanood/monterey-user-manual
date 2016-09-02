@@ -11,6 +11,9 @@ Image 1
 </p>
 
 <br>
+
+Having defined the path to the folder where the application is stored, click one the `Next` button (marker 1, Image 2)
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030062/d440eaf2-6c77-11e6-8761-00337113130b.png"></img>
  <br><br>
