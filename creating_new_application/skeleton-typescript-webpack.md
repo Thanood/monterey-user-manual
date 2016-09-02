@@ -31,6 +31,11 @@ Image 3
 </p>
 
 <br>
+
+Now (Image 4), we reached the most important step of the Monterey wizard - page where will eventually reside the Monterey **workflow** plugin. At this time you see the workflow's "place-holder" implemented as a list of check-boxes presenting the list of application build options that are meaningful in the given context. As Monterey gets able to handle a lot more complex tasks (managing creation, building, testing and deployment tasks of several tens of applications at the same time, the concept of the "workflow of workflows" will be the best way to ensure correct and meaningful definition of all of these tasks running in a conflict-free fashion.
+
+The concrete example here is very simple: run the equivalence of **`npm install`** (marker 1), and **`npm start`** by invoking npm API (action different from invoking the same service using the console). This execution is triggered by the click on the Start button (marker 2).
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030088/95abf7a4-6c78-11e6-91aa-0d990f9cd230.png"></img>
  <br><br>
