@@ -86,14 +86,14 @@ Image 8
 
 In order to stop the still running `npm start` process, click on the Task manager icon on the Monterey toolbar (Image 9, marker 1), which indicates that one task is running.
 
-<br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030143/fa0d438c-6c79-11e6-9f40-e494062e4751.png"></img>
  <br><br>
 Image 9
 </p>
 
-<br>
+Using context menu off the Task manager's entry indicating the running task (Image 10, marker 1) select the `End task` context menu item, and close task manager (marker 3).
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030146/1cf9d478-6c7a-11e6-80e9-b7d43c51194e.png"></img>
  <br><br>
