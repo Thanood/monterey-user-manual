@@ -8,3 +8,10 @@
 Image 1
 </p>
 
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18219110/42d54442-7135-11e6-995f-37db687492ca.png"></img>
+ <br><br>
+Image 2
+</p>
+
