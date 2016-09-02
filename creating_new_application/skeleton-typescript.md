@@ -66,6 +66,9 @@ Image 6
 </p>
 
 <br>
+
+Image 7 shows the Task manager showing the details of the `gulp watch` task - which ended with the message: "Description: Project running at `http://localhost:9000`"
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18035090/199efd24-6d1c-11e6-8d74-245f0965fc13.png"></img>
  <br><br>
