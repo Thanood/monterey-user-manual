@@ -31,6 +31,9 @@ Image 3
 </p>
 
 <br>
+
+Image 4 shows the completed project's configuration, offering the choice between `Previous` button and the `Next` button - we will take that second choice (marker 1).
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18035066/a08b0004-6d1b-11e6-8b1f-913809f990d5.png"></img>
  <br><br>
