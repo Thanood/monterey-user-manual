@@ -20,8 +20,10 @@ Having defined the path to the folder where the application is stored, click one
 Image 2
 </p>
 
-
 <br>
+
+Image 3 shows the completed project's configuration, offering the choice between `Previous` button and the `Next` button - we will take that second choice (marker 1).
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030081/7106e292-6c78-11e6-819b-8a5ecb2002ec.png"></img>
  <br><br>
