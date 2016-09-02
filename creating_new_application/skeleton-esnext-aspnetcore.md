@@ -100,6 +100,16 @@ Image 9
 Image 10
 </p>
 
+<br>
+
+More detailed view of Image 10
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18220031/3b52fd34-713c-11e6-9446-3721030ce3de.png"></img>
+ <br><br>
+Image 11
+</p>
+
 
 
 
