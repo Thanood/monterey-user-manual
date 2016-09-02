@@ -39,56 +39,56 @@ The concrete example here is very simple: run the equivalence of **`npm install`
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030088/95abf7a4-6c78-11e6-91aa-0d990f9cd230.png"></img>
  <br><br>
-Image 5
+Image 4
 </p>
 
 <br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030112/43c55e48-6c79-11e6-9ee0-d68d67d9288a.png"></img>
  <br><br>
-Image 6
+Image 5
 </p>
 
 <br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030120/7060d310-6c79-11e6-8857-0393a6df8fcb.png"></img>
  <br><br>
-Image 7
+Image 6
 </p>
 
 <br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030128/a681ab7c-6c79-11e6-8a0a-c1007a7232d4.png"></img>
  <br><br>
-Image 8
+Image 7
 </p>
 
 <br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030134/d4926420-6c79-11e6-86ab-758172da93fb.png"></img>
  <br><br>
-Image 9
+Image 8
 </p>
 
 <br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030143/fa0d438c-6c79-11e6-9f40-e494062e4751.png"></img>
  <br><br>
-Image 10
+Image 9
 </p>
 
 <br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030146/1cf9d478-6c7a-11e6-80e9-b7d43c51194e.png"></img>
  <br><br>
-Image 11
+Image 10
 </p>
 
 <br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18030151/438db67c-6c7a-11e6-8a3b-544074764c67.png"></img>
  <br><br>
-Image 12
+Image 11
 </p>
 
 
