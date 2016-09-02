@@ -112,7 +112,7 @@ Image 11
 
 <br>
 
-Shut the application down
+Shut the application down.
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18220069/84a17b00-713c-11e6-8199-36e632ba95fe.png"></img>
@@ -131,7 +131,7 @@ Image 13
 
 <br>
 
-Ending the **`gulp watch`** task as well
+Ending the **`gulp watch`** task as well.
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18220116/f7a9bf68-713c-11e6-8f00-3c0c1aae4509.png"></img>
