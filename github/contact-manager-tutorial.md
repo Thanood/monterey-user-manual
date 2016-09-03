@@ -109,7 +109,7 @@ Image 9
 
 <br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18108495/7d8bfb06-6eda-11e6-9803-675136bac7cb.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18227564/7fa4e92e-71f6-11e6-8e07-cf214af15007.png"></img>
  <br><br>
 Image 10
 </p>
@@ -118,7 +118,6 @@ Image 10
 
 Finally, open the Task Manager view again (Image 11) and use the context menu based `End task` command to terminate the `au run --watch` process.
 
-<br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18108673/4e1177ec-6edb-11e6-981c-2bbf570a51c5.png"></img>
  <br><br>
