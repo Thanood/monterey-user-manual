@@ -26,6 +26,6 @@
    * [skeleton-typescript-aspnetcore](creating_new_application/skeleton-typescript-aspnetcore.md)
    * [skeleton-typescript-webpack](creating_new_application/skeleton-typescript-webpack.md)
    * [skeleton-typescript](creating_new_application/skeleton-typescript.md)
-   * GitHub
+   * [GitHub](creating_new_application/github.md)
 * [Managing existing application](managing_existing_application.md)
 
