@@ -80,7 +80,21 @@ Image 7
 
 <br>
 
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18233117/9f3c7e80-72ac-11e6-8524-cae72f78b39d.png"></img>
+ <br><br>
+Image 8
+</p>
 
+<br>
+
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18233126/d05e1fb4-72ac-11e6-80f3-392820c61028.png"></img>
+ <br><br>
+Image 9
+</p>
 
 
 
