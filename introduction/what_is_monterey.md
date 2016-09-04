@@ -4,7 +4,7 @@ As mentioned in the Introduction chapter, it is advisable to read the **[Montere
 
 For reader's convenience, here is a copy of the Monterey definition from the **[Monterey overview](https://aurelia-ui-toolkits.gitbooks.io/monterey-overview/content/)** document:
 
-Rather than creating yet another Integrated Development Environment (IDE) application, AureliaTools team's aproach  is to "integrate all development tools, including various IDEs, CLI tools, File managers into a single top level "command center" application. We named this application Monterey
+Rather than creating yet another Integrated Development Environment (IDE) application, AureliaTools team's aproach  is to "integrate all development tools, including various IDEs, CLI tools, File managers into a single top level "command center" (aka HUB) application. We named this application Monterey
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17080202/5e5d07b0-50f4-11e6-9666-95916050aad8.png"></img>
