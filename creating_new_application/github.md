@@ -22,4 +22,9 @@ When you paste the URL into GitHub URL field (marker 1), you will see the folder
 Image 2
 </p>
 
+<br> Selecting the `Subfolder` entry completely defines the application - Monterey will fetch it from Github for subsequent processing.
+
+***
+***
+
 
