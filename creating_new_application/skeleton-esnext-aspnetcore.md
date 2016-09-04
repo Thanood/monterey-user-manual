@@ -23,7 +23,7 @@ Image 2
 
 <br>
 
-Since the project structure is completely defined at this point (remember, Monterey has successfuly parsed all configuration information that is defined in this **[skeleton](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-aspnetcore)** folder), you are presented with Monterey's view of the project configuration (Image 3). Click on the **`Next`** button (marker 1) to proceed 
+Since the project structure is completely defined at this point (remember, Monterey has successfuly parsed all configuration information that is defined in this **[skeleton](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-aspnetcore)** folder), you are presented with Monterey's view of the project configuration (Image 3). Click on the **`Next`** button (marker 1) to proceed. 
 
 <br>
 <p align=center>
