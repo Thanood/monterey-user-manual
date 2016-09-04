@@ -13,3 +13,4 @@ Image 1
 
 <br>
 
+Note that Monterey will offer the name of the project (marker 1), so click on the **`Next`** button (marker 2) to accept the name and move to the next step.
