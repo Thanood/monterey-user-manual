@@ -14,3 +14,9 @@ Image 1
 <br>
 
 Note that Monterey will offer the name of the project (marker 1), so click on the **`Next`** button (marker 2) to accept the name and move to the next step.
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18232957/cb449066-72a8-11e6-92b9-92855e1e8a71.png"></img>
+ <br><br>
+Image 2
+</p>
