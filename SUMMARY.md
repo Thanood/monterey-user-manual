@@ -27,6 +27,6 @@
    * [skeleton-typescript-webpack](creating_new_application/skeleton-typescript-webpack.md)
    * [skeleton-typescript](creating_new_application/skeleton-typescript.md)
    * [GitHub](creating_new_application/github.md)
-       * Contact manager tutorial
+       * [Contact manager tutorial](creating_new_application/contact_manager_tutorial.md)
 * [Managing existing application](managing_existing_application.md)
 
