@@ -46,8 +46,46 @@ Click on the **`Start`** button (marker 5) initiates the application build and r
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18232992/97d8fcfc-72a9-11e6-8a3c-74a60a220af2.png"></img>
  <br><br>
-Image 2
+Image 4
 </p>
+
+<br>
+
+The next 6 screenshots depict the snapshots of the workflow pipeline - and probably need not additional explanations.
+
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18233093/01315526-72ac-11e6-828d-4a65aa5a2c05.png"></img>
+ <br><br>
+Image 5
+</p>
+
+<br>
+
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18233101/232ad18e-72ac-11e6-85f2-90d1d27609e8.png"></img>
+ <br><br>
+Image 6
+</p>
+
+<br>
+
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18233105/48047ea6-72ac-11e6-8184-684e42c1bd98.png"></img>
+ <br><br>
+Image 7
+</p>
+
+<br>
+
+
+
+
+
+
+
 
 
 
