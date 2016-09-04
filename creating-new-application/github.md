@@ -1,3 +1,0 @@
-# GitHub
-
-abra-kadabra
