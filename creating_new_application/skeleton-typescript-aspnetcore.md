@@ -41,7 +41,7 @@ There are several details that deserve additional comments:
 - Monterey "understands" the structure of aspnet.core project has to run the `dotnet restore` task (marker 2)
 - Both `gulp watch` and `dotnet run` tasks need to be running in order for this app to work (markers 3 and 4)
 
-Click on the **`Start`** button (marker 5) initiates the application build and run workflow - as described in **[Running The App without Visual Studio](https://github.com/aurelia/skeleton-navigation/blob/master/skeleton-esnext-aspnetcore/src/skeleton/README.md#running-the-app-without-visual-studio)** article.
+Click on the **`Start`** button (marker 5) initiates the application build and run workflow - as described in **[Running The App without Visual Studio](https://github.com/aurelia/skeleton-navigation/blob/master/skeleton-typescript-aspnetcore/src/skeleton/README.md#running-the-app-without-visual-studio)** article.
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18232992/97d8fcfc-72a9-11e6-8a3c-74a60a220af2.png"></img>
