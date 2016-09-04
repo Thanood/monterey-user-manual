@@ -8,7 +8,15 @@ While Monterey is a lot more complex tool today (see **[What is Monterey](../int
 Here are a few ideas from the general area of configuration management we are considering at the moment
 
 - Upgrading an existing application to the next version of Aurelia.
-- Downgrading an existing application to some previous version of Aurelia (say for debugging purposes)
+- Downgrading an existing application to some previous version of Aurelia (say for debugging purposes).
+- Analyzing dependencies on other modules and eliminating some that are not used.
+
+### 2. Deeper and richer integration with other development tools
+Current integration level is simple and shallow - see **[Image 10 in the Creating new application, skeleton typescript aspnet.core](../creating_new_application/skeleton-typescript-aspnetcore.html)** as an example: after the application build step has finished, we could close the Task manager view and click on the Chrome tile to see the running application (Chrome will be passed the URL of `http://localhost:5000`, specific for the building pipeline of that application.)
+
+### 3. Complete life-cycle management (aka "DevOps")
+
+
 
 
 
