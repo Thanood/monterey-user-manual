@@ -1,6 +1,6 @@
 # Features
 
-Features are an alternative name for the collection of Monterey plugins - also know as Tiles (highlighted by the red rectangle in the screenshot below)
+**Features** is the alternative name for the collection of Monterey plugins - also know as **Tiles** (highlighted by the red rectangle in the screenshot below)
 
 <br>
 <p align=center>
