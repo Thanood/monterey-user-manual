@@ -30,3 +30,24 @@ Since the project structure is completely defined at this point (remember, Monte
  <br><br>
 Image 3
 </p>
+
+<br>
+
+Now (Image 4), we reached the most important step of the Monterey wizard - page where will eventually reside the Monterey **workflow** plugin. At this time you see the workflow's "place-holder" implemented as a "treeview" of check-boxes presenting the ordered list of application build options that are meaningful in the given context. As Monterey gets able to handle a lot more complex tasks (managing creation, building, testing and deployment tasks of several tens of applications at the same time, the concept of the "workflow of workflows" will be the best way to ensure correct and meaningful definition of all of these tasks running in a conflict-free fashion.
+
+There are several details that deserve additional comments:
+
+- Monterey "knows" that Typescript apps need one additional task - `typings install` (marker 1)
+- Monterey "understands" the structure of aspnet.core project has to run the `dotnet restore` task (marker 2)
+- Both `gulp watch` and `dotnet run` tasks need to be running in order for this app to work (markers 3 and 4)
+
+Click on the **`Start`** button (marker 5) initiates the application build and run workflow - as described in **[Running The App without Visual Studio](https://github.com/aurelia/skeleton-navigation/blob/master/skeleton-esnext-aspnetcore/src/skeleton/README.md#running-the-app-without-visual-studio)** article.
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18232992/97d8fcfc-72a9-11e6-8a3c-74a60a220af2.png"></img>
+ <br><br>
+Image 2
+</p>
+
+
+
