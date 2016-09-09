@@ -15,7 +15,7 @@ Image 1
 
 <br>
 
-The next required data is the definition of the application's name (Image 2). This is the name that will appear on the Monterey's list-view of all open applications. Since this same name will be used as the name of the folder where the application "lives", this name needs to be unique. Observe that Monterey verifies each proposed application name for uniqueness.
+The next required data is the definition of the application's name (Image 2). This is the name that will appear on the Monterey's list-view of all open applications. Since this same name will be used as the **name of the folder** where the application "lives", this name needs to be unique and should not contain blank spaces. Observe that Monterey verifies each proposed application name for uniqueness.
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17986764/5f872ade-6aea-11e6-8fd4-7ffb08f3a999.png"></img>
