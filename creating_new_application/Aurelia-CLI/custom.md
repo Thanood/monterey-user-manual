@@ -95,10 +95,9 @@ Image 9
 <br>
 
 At this point we reached the most important step of the Monterey wizard - page where will eventually reside the **Monterey workflow plugin** (Image 10). At this time you see the workflow's "place-holder" implemented as a list of check-boxes presenting the list of application build options that are meaningful in the given context. As Monterey gets able to handle a lot more complex tasks (managing creation, building, testing and deployment tasks of several tens of applications at the same time, the concept of the "workflow of workflows" will be the best way to ensure correct and meaningful definition of all of these tasks running in a conflict-free fashion.
-
-Unlike other examples showing how to create the application from a template, in this situation we accepted the complete offered workflow (marker 1) which will schedule the sequence of **`npm install`** and **`au run --watch`** for execution. Finish this wizard with the click on the **`Start`** button (marker 2), resulting with the activation of the **[Task manager]()** plugin.
-
 <br>
+Unlike other examples showing how to create the application from a template, in this situation we accepted the complete offered workflow (marker 1) which will schedule the sequence of `npm install` and **`au run --watch`** for execution. Finish this wizard with the click on the **`Start`** button (marker 2), resulting with the activation of the **[Task manager]()** plugin.
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18406039/cfa7e614-76c5-11e6-9e94-8e4ccb3d27bd.png"></img>
  <br><br>
