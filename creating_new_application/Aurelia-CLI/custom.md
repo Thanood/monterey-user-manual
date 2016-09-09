@@ -45,7 +45,7 @@ Image 4
 
 <br>
 
-Transpiler selection dialog (Image 5). We chose `Babel` and continue to Image 6 clicking on the `Next` button (marker 2).
+Transpiler selection dialog (Image 5). We chose `Babel` (marker 1) and continue to Image 6 clicking on the **`Next`** button (marker 2).
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17986865/dc0b6070-6aea-11e6-8a87-72c8692a5e89.png"></img>
