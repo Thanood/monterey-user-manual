@@ -35,10 +35,10 @@ Image 3
 
 <br>
 
-This is the first in the series of Aurelia-CLI custom template additional specifications (Image 4) where we selected the `ASP.NET Core` template (see [this site](http://www.asp.net/core) for more details). Click on the `Next` button leads to to the Transpiler selection (Image 5)
+This is the first in the series of Aurelia-CLI custom template additional specifications (Image 4) where we selected the `Default` template (marker 1). Click on the `Next` button (marker 2) leads to to the Transpiler selection (Image 5)
 
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/17986829/b45245a8-6aea-11e6-9793-cf35c6ae3620.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18405079/ebbbc8ba-76bc-11e6-87cd-da361ef50684.png"></img>
  <br><br>
 Image 4
 </p>
