@@ -83,11 +83,11 @@ Image 8 shows the selection of the Editor / IDE from the list of alternatives th
 Image 8
 </p>
 
-Image 8 depicts the complete project configuration definition, allowing the user to verify that the process so far resulted with the intended outcome (the `previous` button is provided for the case where something needs to be changed). In our situation, click on the `Next` button (marker 1).
+Image 9 depicts the complete project configuration definition, allowing the user to verify that the process so far resulted with the intended outcome (the `previous` button is provided for the case where something needs to be changed). In our situation, click on the `Next` button (marker 1).
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17986961/5b4b6d80-6aeb-11e6-90c8-d2d4922f137b.png"></img>
  <br><br>
-Image 8
+Image 9
 </p>
 
 <br>
@@ -99,28 +99,28 @@ Unlike other examples showing how to create the application from a template, in 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17987075/fcf8937e-6aeb-11e6-9dc3-5f511a4a8e66.png"></img>
  <br><br>
-Image 9
-</p>
-
-<br>
-
-Image 10 presents Monterey's main view indicating our `custom-1` project as active (shown in red). Notice the `Show irrrelevant tiles` check-box (marker 1) and **set** it to checked state.
-
-<p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/17987184/9031b0f8-6aec-11e6-8620-235c930e533a.png"></img>
- <br><br>
 Image 10
 </p>
 
 <br>
 
+Image 11 presents Monterey's main view indicating our `custom-1` project as active (shown in red). Notice the `Show irrrelevant tiles` check-box (marker 1) and **set** it to checked state.
 
-Here (Image 11) we can see the effect of requesting to see `irrelevant tiles` which are shown with diagonal stripes - indicating that all these tiles cannot play any role in this specific project. This proves that Monterey has the ability to recognize any project's type (Aurelia-CLI in our case). See **[Monterey technical documentation - Project detection](https://aurelia-ui-toolkits.gitbooks.io/monterey-technical-documentation/content/project_detection.html)** for more details.
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/17987184/9031b0f8-6aec-11e6-8620-235c930e533a.png"></img>
+ <br><br>
+Image 11
+</p>
+
+<br>
+
+
+Here (Image 12) we can see the effect of requesting to see `irrelevant tiles` which are shown with diagonal stripes - indicating that all these tiles cannot play any role in this specific project. This proves that Monterey has the ability to recognize any project's type (Aurelia-CLI in our case). See **[Monterey technical documentation - Project detection](https://aurelia-ui-toolkits.gitbooks.io/monterey-technical-documentation/content/project_detection.html)** for more details.
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17987221/cdd13780-6aec-11e6-993c-767339ef3a0b.png"></img>
  <br><br>
-Image 11
+Image 12
 </p>
 
 <br>
