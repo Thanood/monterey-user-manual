@@ -75,6 +75,14 @@ Image 7
 
 <br>
 
+Image 8 shows the selection of the Editor / IDE from the list of alternatives that are defined using the  **[App Launcher plugin](https://aurelia-ui-toolkits.gitbooks.io/monterey-user-manual/content/features/app_launcher.html)** (tile). For this example, we will select the **[Atom](https://atom.io/)** editor (marker 1) and move ahead by the clock on the **`Next`** button (marker 2).
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18405175/ce8cdb52-76bd-11e6-8018-5616fdbd8c2b.png"></img>
+ <br><br>
+Image 8
+</p>
+
 Image 8 depicts the complete project configuration definition, allowing the user to verify that the process so far resulted with the intended outcome (the `previous` button is provided for the case where something needs to be changed). In our situation, click on the `Next` button (marker 1).
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/17986961/5b4b6d80-6aeb-11e6-90c8-d2d4922f137b.png"></img>
