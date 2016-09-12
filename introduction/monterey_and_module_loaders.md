@@ -26,7 +26,7 @@ Realizing the this restriction will severely impact Monterey's functionality, de
 - **[ESNext Skeletons](https://github.com/aurelia/skeleton-navigation#esnext-skeletons)**
 - **[TypeScript Skeletons](https://github.com/aurelia/skeleton-navigation#typescript-skeletons)**
 
-Going even further, we added the support to use any Aurelia application residing in GitHub - see **[this section](../../content/creating_new_application/github.html)**  for more details.
+Going even further, we added the support to use any Aurelia application residing in GitHub - see **[this section](../../content/creating_new_application/github.html)**  for more details. This last approach will be used to provide the support for application developers that want to use Monterey to create applications with KendoUI, Materialize or Syncfusion bridges.
 
 ### Summary
 
