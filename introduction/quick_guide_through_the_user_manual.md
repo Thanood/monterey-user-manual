@@ -5,7 +5,7 @@ Currently this User manual consists of the following  chapters
 #### 1. [Introduction](../)
 You are reading a section from this chapter right now. 
 
-___Please check the section [Monterey and module loaders]() before creating any applications with Monterey.___
+___Please check the section [Monterey and module loaders](../monterey_and_module_loaders.html) before creating any applications with Monterey.___
 
 #### 2. [Installing Monterey](../installing_monterey.html)
 Information on how to download and install Monterey for all covered (Windows, OSX and Linux) platforms.
