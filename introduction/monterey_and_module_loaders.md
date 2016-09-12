@@ -17,3 +17,6 @@ We recommend scanning the article **[History and Background of JavaScript Module
 
 ### Monterey's support for module loaders
 
+Monterey is designed to be the preferred tool for development of complex Aurelia applications, so its ability to support all module loaders is of vital importance.
+
+In its role as the application generator (see [How ES6 Generators are changing the way we write Javascript](http://riadbenguella.com/how-es6-generators-are-changing-how-we-write-javascript/) for more information on this subject) Monterey is acting as the GUI for the [Aurelia-CLI](https://github.com/aurelia/cli) application generator. Since Aurelia-CLI supports only the RequireJS module loader, this also reduces Monterey's support for module loaders to RequireJS only. In other words **if you wish to use Monterey as the application generator, you can only create applications that use RequireJS module loader**.
