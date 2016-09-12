@@ -34,4 +34,5 @@ Going even further, we added the support to use any Aurelia application residing
 
 2. If using the RequireJS module loader is not an acceptable choice, this current Monterey version cannot create your application from scratch and you should consider using the above mentioned approach to create applications from the **[Aurelia starter kits repository](https://github.com/aurelia/skeleton-navigation)**  or to use any Aurelia application residing in GitHub as the starting point.
 
-
+***
+***
