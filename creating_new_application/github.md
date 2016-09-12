@@ -24,6 +24,8 @@ Image 2
 
 <br> Selecting the `Subfolder` entry completely defines the application - Monterey will fetch it from Github for subsequent processing.
 
+See the **[Contact manager tutorial](./contact_manager_tutorial.html)** article for more details about this approach.
+
 ***
 ***
 
