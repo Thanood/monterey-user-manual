@@ -1,4 +1,4 @@
-# Creating new application
+# Creating new applications
 
 Current Monterey supports eight different template types for new application creation - as shown on this image below
 
@@ -19,7 +19,19 @@ In order to increase the spectrum of supported applications, Monterey adds all s
 The last category of templates is accessible wia **GitHub** entry on the project templates list. As you will see, this is the most universal template as it allows you to use any existing Aurelia project existing in [GitHub](https://github.com/) as the start. Check the **[GitHub](./creating_new_application/github.html)** page of this document, as an example of such approach.
 
 
-All subsections of this chapter are written the same way - lots of screen-shots and as little text as possible, provided only where the continuity between consecutive screen-shots is needed. While this approach requires a lot of redundant information - it also allows that each section is without any references or jumps to a page that would contain the information common to all subsections. 
+All subsections of this chapter:
+
+- [Aurelia-CLI](../creating_new_application/aurelia-cli.html)
+- [skeleton-esnext-aspnetcore](creating_new_application/skeleton-esnext-aspnetcore.html)
+- [skeleton-esnext-webpack](creating_new_application/skeleton-esnext-webpack.html)
+- [skeleton-esnext](creating_new_application/skeleton-esnext.html)
+- [skeleton-typescript-aspnetcore](creating_new_application/skeleton-typescript-aspnetcore.html)
+- [skeleton-typescript-webpack](creating_new_application/skeleton-typescript-webpack.html)
+- [skeleton-typescript](creating_new_application/skeleton-typescript.html)
+- [GitHub](creating_new_application/github.html)
+
+
+are written the same way - lots of screen-shots and as little text as possible, provided only where the continuity between consecutive screen-shots is needed. While this approach requires a lot of redundant information - it also allows that each section is without any references or jumps to a page that would contain the information common to all subsections. 
 
 ***
 ***
