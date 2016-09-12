@@ -21,8 +21,8 @@ ___Please check the section [Monterey and module loaders](../introduction/monter
 
 This is the most relevant information in this initial Monterey release - describing several means of Aurelia application generation, build and execution:
 
-- **[Aurelia-CLI]()**
-- **[Aurelia starter kits repository](https://github.com/aurelia/skeleton-navigation)**,  starting with **[Skeleton-ESNext]()**
+- **[Aurelia-CLI](../creating_new_application/aurelia-cli.html)**
+- **[Aurelia starter kits repository](https://github.com/aurelia/skeleton-navigation)**,  starting with **[Skeleton-ESNext](../creating_new_application/skeleton-esnext.html)**
 
 #### 7. [Managing existing applications](../managing_existing_application.html)
 
