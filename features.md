@@ -9,6 +9,8 @@
 Image 2
 </p>
 
+<br>
+
 This chapter provides more details on these plugins:
 
 - [App launcher](./app_launcher.html)
