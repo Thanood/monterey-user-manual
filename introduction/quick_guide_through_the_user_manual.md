@@ -8,7 +8,7 @@ You are reading a section from this chapter right now.
 ___Please check the section [Monterey and module loaders]() before creating any applications with Monterey.___
 
 #### 2. [Installing Monterey](../installing_monterey.html)
-Information on how to download and install Monterey for all covered platforms.
+Information on how to download and install Monterey for all covered (Windows, OSX and Linux) platforms.
 
 #### 3. [Preferences](../preferences.html)
 This chapter defines the user preferences and the related default values.
