@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
    * [What is Monterey](introduction/what_is_monterey.md)
-   * [Quick guide through the User manual](introduction/quick_guide_through_the_user_manual.md)
    * [Monterey and module loaders](introduction/monterey_and_module_loaders.md)
+   * [Quick guide through the User manual](introduction/quick_guide_through_the_user_manual.md)
 * [Installing Monterey](installing_monterey.md)
 * [Preferences](preferences.md)
 * [Features](features.md)
