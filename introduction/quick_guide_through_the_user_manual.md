@@ -1,4 +1,4 @@
-# Quick guide through the User manual
+# Quick guide through this User manual
 
 Initially this User manual consists of two chapters
 
