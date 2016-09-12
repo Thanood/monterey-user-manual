@@ -7,7 +7,7 @@ You are reading a section from this chapter right now.
 
 ___Please check the section [Monterey and module loaders]() before creating any applications with Monterey___
 
-#### 2. [Installing Monterey](../../installing_monterey.html)
+#### 2. [Installing Monterey](../installing_monterey.html)
 Information on how to download and install Monterey for all covered platforms.
 
 #### 3. [Preferences]()
