@@ -16,7 +16,6 @@
    * [Terminal](features/terminal.md)
    * [Error logger](features/error_logger.md)
 * [Creating new applications](creating_new_application.md)
-   * [Creation pattern](creating_new_application/creation_pattern.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
        * [Default-ESNext](creating_new_application/Aurelia-CLI/default-esnext.md)
        * [Default-TypeScript](creating_new_application/Aurelia-CLI/default-typescript.md)
