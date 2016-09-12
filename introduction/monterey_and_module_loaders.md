@@ -30,6 +30,8 @@ Going even further, we added the support to use any Aurelia application residing
 
 ### Summary
 
-If you want to use Monterey to create your application from scratch, you have to use the **[Aurelia-CLI application generator](../../content/creating_new_application/aurelia-cli.html)**, which requires your application to use the SystemJS module loader.
+1. If you want to use Monterey to create your application from scratch, you have to use the **[Aurelia-CLI application generator](../../content/creating_new_application/aurelia-cli.html)**, which requires your application to use the RequireJS module loader.
+
+2. If using the RequireJS module loader is not an acceptable choice, Monterey cannot create your application from scratch and you should consider using the above mentioned approach to create applications from the [Aurelia starter kits](https://github.com/aurelia/skeleton-navigation) repository or to use any Aurelia application residing in GitHub.
 
 
