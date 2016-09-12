@@ -26,5 +26,5 @@ Realizing the this restriction will severely impact Monterey's functionality, de
 - **[ESNext Skeletons](https://github.com/aurelia/skeleton-navigation#esnext-skeletons)**
 - **[TypeScript Skeletons](https://github.com/aurelia/skeleton-navigation#typescript-skeletons)**
 
-Going even further, 
+Going even further, we added the support to use any Aurelia application residing in GitHub - see [this](../../content/creating_new_application/github.html) section for more details
 
