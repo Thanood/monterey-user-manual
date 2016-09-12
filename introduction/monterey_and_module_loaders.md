@@ -21,7 +21,7 @@ Monterey is designed to be the preferred tool for development of complex Aurelia
 
 In its role as the application generator (see [How ES6 Generators are changing the way we write Javascript](http://riadbenguella.com/how-es6-generators-are-changing-how-we-write-javascript/) for more information on this subject) Monterey is acting as the GUI for the [Aurelia-CLI](https://github.com/aurelia/cli) application generator. Since Aurelia-CLI supports only the RequireJS module loader, this also reduces Monterey's support for module loaders to RequireJS only. In other words: **if you wish to use Monterey as the application generator, you can only create applications that use RequireJS module loader**.
 
-Realizing the this restriction will severely impact Monterey's functionality, declared as the tool to **[create](./creating_new_application.html)** and **[maintain](./managing_existing_application.html)** any Aurelia applications, we added the ability to create applications from the [Aurelia starter kits](https://github.com/aurelia/skeleton-navigation) repository:
+Realizing the this restriction will severely impact Monterey's functionality, declared as the tool to **[create](../creating_new_application.html)** and **[maintain](../managing_existing_application.html)** any Aurelia applications, we added the ability to create applications from the [Aurelia starter kits](https://github.com/aurelia/skeleton-navigation) repository:
 
 - **[ESNext Skeletons](https://github.com/aurelia/skeleton-navigation#esnext-skeletons)**
 - **[TypeScript Skeletons](https://github.com/aurelia/skeleton-navigation#typescript-skeletons)**
