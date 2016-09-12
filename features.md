@@ -15,12 +15,12 @@ This chapter provides more details on these plugins:
 
 - [App launcher](./features/app_launcher.html)
 - [NPM manager](./features/npm_manager.html)
-- [JSPM manager](./jspm_manager.html)
-- [Project info](./project_info.html)
-- [GistRun](./gistrun.html)
-- [Task manager](task_manager.html)
-- [Terminal](terminal.html)
-- [Error logger](error_logger.html)
+- [JSPM manager](./features/jspm_manager.html)
+- [Project info](./features/project_info.html)
+- [GistRun](./features/gistrun.html)
+- [Task manager](./features/task_manager.html)
+- [Terminal](./features/terminal.html)
+- [Error logger](./features/error_logger.html)
 
 ***
 ***
