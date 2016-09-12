@@ -28,3 +28,8 @@ Realizing the this restriction will severely impact Monterey's functionality, de
 
 Going even further, we added the support to use any Aurelia application residing in GitHub - see **[this section](../../content/creating_new_application/github.html)**  for more details
 
+### Summary
+
+If you want to use Monterey to create your application from scratch, you have to use the **[Aurelia-CLI application generator](../../content/creating_new_application/aurelia-cli.html)**, which requires your application to use the SystemJS module loader.
+
+
