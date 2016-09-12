@@ -6,7 +6,7 @@
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18097152/c5f2ac1c-6eaa-11e6-90ea-4f73653bf16c.png"></img>
  <br><br>
-Image 2
+Image 1
 </p>
 
 <br>
