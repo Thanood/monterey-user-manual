@@ -9,7 +9,16 @@
 Image 2
 </p>
 
-This chapter provides more details on these plugins.
+This chapter provides more details on these plugins:
+
+- [App launcher](./app_launcher.html)
+- [NPM manager](./npm_manager.html)
+- [JSPM manager](./jspm_manager.html)
+- [Project info](./project_info.html)
+- [GistRun](./gistrun.html)
+- [Task manager](task_manager.html)
+- [Terminal](terminal.html)
+- [Error logger](error_logger.html)
 
 ***
 ***
