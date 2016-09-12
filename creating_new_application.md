@@ -9,7 +9,7 @@ Current Monterey supports eight different template types for new application cre
 
 <br>
 
-The Aurelia-CLI template is intentionally on the first place as it is the most popular method for Aurelia application creation, despite its initial limitation to support a single module loader -  **[RequireJS](http://requirejs.org/)**. In order to maximize the power if Aurelia-CLI, Monterey internally uses this tool, acting as its Visual "proxy" - a fact that any existing Aurelia-CLI user will immediately recognize while providing the answers to Monterey's application creation Wizard.
+The Aurelia-CLI template is intentionally on the first place as it is the most popular method for Aurelia application creation, despite its initial limitation to support a single module loader -  **[RequireJS](http://requirejs.org/)**. In order to maximize the power of Aurelia-CLI, Monterey internally uses this tool, acting as its GUI - a fact that any existing Aurelia-CLI user will immediately recognize while providing the answers to Monterey's application creation Wizard.
 
 
 In order to increase the spectrum of supported applications, Monterey adds all six existing **[Aurelia Navigation Skeletons](https://github.com/aurelia/skeleton-navigation)** as application creation templates. These templates present you with the "CLI-like" interface and allow you to use JSPM loader (skeleton-esnext template) and Webpack (skeleton-esnext-webpack, skeleton-typescript-webpack)
