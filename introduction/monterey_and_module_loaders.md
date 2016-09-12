@@ -11,3 +11,5 @@ As your application grows in complexity, the classic approach to loading modules
 - **[SystemJS](https://github.com/systemjs/systemjs)**
 
 - **[WHATWG](https://whatwg.github.io/loader/)**
+
+We recommend scanning the article **[History and Background of JavaScript Module Loaders](https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/)** to refresh / improve your understanding the purpose and use this technology
