@@ -19,7 +19,7 @@
    * [Terminal](features/terminal.md)
    * [Error logger](features/error_logger.md)
    * [typings](features/typings.md)
-   * webpack
+   * [webpack](features/webpack.md)
 * [Creating new applications](creating_new_application.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
        * [Default-ESNext](creating_new_application/Aurelia-CLI/default-esnext.md)
