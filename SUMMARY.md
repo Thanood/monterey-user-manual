@@ -17,7 +17,7 @@
    * [Task manager](features/task_manager.md)
    * [Terminal](features/terminal.md)
    * [Error logger](features/error_logger.md)
-   * gist-run
+   * [gist-run](features/gist-run.md)
 * [Creating new applications](creating_new_application.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
        * [Default-ESNext](creating_new_application/Aurelia-CLI/default-esnext.md)
