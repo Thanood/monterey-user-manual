@@ -28,7 +28,7 @@ New features would include:
 
 While expansion in the direction of item 2 above will reach quite deep, we believe that enabling Monterey to have intelligent integration with **[Docker](https://www.docker.com/)** will completely fulfill the mantra BUILD, SHIP, RUN. 
 
-This feature will equaly support **[kubernetes](http://kubernetes.io/)** in the context of the planned partnership with **[DEIS](https://deis.com/)**
+This feature will equaly support **[kubernetes](http://kubernetes.io/)** in the context of the planned partnership with several relevant vendors.
 
 
 
