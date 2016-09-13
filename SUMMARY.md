@@ -6,6 +6,7 @@
    * [Monterey and module loaders](introduction/monterey_and_module_loaders.md)
 * [Installing Monterey](installing_monterey.md)
 * [Preferences](preferences.md)
+   * typings
 * [Features](features.md)
    * [App launcher](features/app_launcher.md)
    * [dotnet](features/dotnet.md)
