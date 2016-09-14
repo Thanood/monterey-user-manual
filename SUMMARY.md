@@ -14,7 +14,6 @@
    * [gulp](features/gulp.md)
    * [JSPM manager](features/jspm_manager.md)
    * [NPM manager](features/npm_manager.md)
-   * [Preferences](preferences.md)
    * [Project info](features/project_info.md)
    * [support](features/support.md)
    * [Task manager](features/task_manager.md)
