@@ -11,7 +11,7 @@
    * [dotnet](features/dotnet.md)
    * [GistRun](features/gistrun.md)
    * [Error logger](features/error_logger.md)
-   * [gulp](features/gulp.md)
+   * [Gulp](features/gulp.md)
    * [JSPM manager](features/jspm_manager.md)
    * [NPM manager](features/npm_manager.md)
    * [Preferences](features/preferences.md)
