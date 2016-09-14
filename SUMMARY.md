@@ -19,7 +19,7 @@
    * [Support](features/support.md)
    * [Task manager](features/task_manager.md)
    * [Terminal](features/terminal.md)
-   * [typings](features/typings.md)
+   * [Typings](features/typings.md)
    * [webpack](features/webpack.md)
 * [Creating new applications](creating_new_application.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
