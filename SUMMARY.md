@@ -20,7 +20,7 @@
    * [Task manager](features/task_manager.md)
    * [Terminal](features/terminal.md)
    * [Typings](features/typings.md)
-   * [webpack](features/webpack.md)
+   * [Webpack](features/webpack.md)
 * [Creating new applications](creating_new_application.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
        * [Default-ESNext](creating_new_application/Aurelia-CLI/default-esnext.md)
