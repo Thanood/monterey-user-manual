@@ -20,7 +20,7 @@
    * [typings](features/typings.md)
    * [webpack](features/webpack.md)
    * [preferences](features/preferences.md)
-   * Support
+   * [Support](features/support.md)
 * [Creating new applications](creating_new_application.md)
    * [Aurelia-CLI](creating_new_application/aurelia-cli.md)
        * [Default-ESNext](creating_new_application/Aurelia-CLI/default-esnext.md)
