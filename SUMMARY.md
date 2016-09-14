@@ -8,7 +8,7 @@
 * [Features](features.md)
    * [App launcher](features/app_launcher.md)
    * [Aurelia-CLI](features/aurelia-cli.md)
-   * [dotnet](features/dotnet.md)
+   * [Dotnet](features/dotnet.md)
    * [GistRun](features/gistrun.md)
    * [Error logger](features/error_logger.md)
    * [Gulp](features/gulp.md)
