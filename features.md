@@ -14,20 +14,20 @@ Image 1
 This chapter provides more details on these plugins:
 
 - [App launcher](./features/app_launcher.html)
-- [Aurelia-CLI](/features/)
-- [Dotnet]()
+- [Aurelia-CLI](/features/aurelia-cli.html)
+- [Dotnet](./features/dotnet)
 - [GistRun](./features/gistrun.html)
 - [Error logger](./features/error_logger.html)
-- [Gulp]()
+- [Gulp](./features/gulp.html)
 - [JSPM manager](./features/jspm_manager.html) 
 - [NPM manager](./features/npm_manager.html)
-- []Preferences]()
+- [Preferences](./features/preferences.html)
 - [Project info](./features/project_info.html)
-- [Support]()
+- [Support](./features/support.html)
 - [Task manager](./features/task_manager.html)
 - [Terminal](./features/terminal.html)
-- [Typings]()
-- [Webpack]()
+- [Typings](./features/typings.html)
+- [Webpack](./features/webpack.html)
 
 
 ***
