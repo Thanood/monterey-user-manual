@@ -7,7 +7,6 @@ In addition to tiles, this document explains the function of Monterey toolbar it
 <br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18555809/35c703b0-7b37-11e6-9680-94d3d69efa8c.png"></img>
- <br><br>
 </p>
 
 <br>
