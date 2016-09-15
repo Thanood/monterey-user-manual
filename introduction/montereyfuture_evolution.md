@@ -3,7 +3,7 @@ _Introduction_
 ## _Important note_
 ___This text is provided solely to facilitate the discussions with Monterey users. We are in no way implying that we will do all of these extenstions, nor that we might not add some completely different features - if these turn out to be deemed important by a large enough group of users.___
 
-### 1. Configuration management
+### 1. Application configuration management
 There is a rumor that Monterey started as Aurelia Configuration Tool (aka ACT), application designed to assist Aurelia developers with tedious and complex pedestrian work associated with configuration details of module managers like **[npm](https://www.npmjs.com/)** and module loaders like **[jspm](http://jspm.io/)** and **[webpack](http://webpack.github.io/docs/)**.
 
 While Monterey is a lot more complex tool today (see **[What is Monterey](../introduction/what_is_monterey.html)** for details), application configuration assistence is one of the key Monterey features (see **[npm manager](../features/npm_manager.html)** and **[jspm manager](../features/jspm_manager.html)** for details) in the context of Aurelia applications management.
