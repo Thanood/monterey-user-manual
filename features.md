@@ -1,6 +1,8 @@
 # Features
 
-**Features** is the alternative name for the collection of Monterey plugins - also know as **Tiles** (highlighted by the red rectangle in the screenshot below)
+**Features** is the alternative name for the collection of Monterey plugins - also know as **Tiles** (highlighted by the red rectangle in the screenshot below). We call them plugins, because they are user installable, where the **[App launcher](./features/app_launcher.html)** (built in) feature provides the GUI interface to the process of creation of new user defined features.
+
+In addition to tiles, this document explains the function of Monterey toolbar items, conventiantly placed in the Monterey footer
 
 <br>
 <p align=center>
@@ -11,7 +13,9 @@ Image 1
 
 <br>
 
-This chapter provides more details on these plugins:
+
+
+This document provides more details on these plugins and Toolbar items:
 
 - **[App launcher](./features/app_launcher.html)**
 - **[Aurelia-CLI](/features/aurelia-cli.html)**
