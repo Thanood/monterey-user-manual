@@ -35,5 +35,4 @@
    * [GitHub](creating_new_application/github.md)
        * [Contact manager tutorial](creating_new_application/contact_manager_tutorial.md)
 * [Managing existing applications](managing_existing_application.md)
-   * [A brief peek in the future of Monterey](managing_existing_applications/a_brief_peek_in_the_future_of_monterey.md)
 
