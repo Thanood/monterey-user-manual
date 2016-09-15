@@ -6,7 +6,6 @@
    * [Monterey and module loaders](introduction/monterey_and_module_loaders.md)
    * [Monterey future plans](introduction/montereyfuture_evolution.md)
 * [Installing Monterey](installing_monterey.md)
-* [On-line help](on-line_help.md)
 * [Features](features.md)
    * [App launcher](features/app_launcher.md)
    * [Aurelia-CLI](features/aurelia-cli.md)
