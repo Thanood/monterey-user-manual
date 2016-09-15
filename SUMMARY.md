@@ -6,6 +6,7 @@
    * [Monterey and module loaders](introduction/monterey_and_module_loaders.md)
    * [Monterey future plans](introduction/montereyfuture_evolution.md)
 * [Installing Monterey](installing_monterey.md)
+* On-line help
 * [Features](features.md)
    * [App launcher](features/app_launcher.md)
    * [Aurelia-CLI](features/aurelia-cli.md)
@@ -36,5 +37,4 @@
    * [GitHub](creating_new_application/github.md)
        * [Contact manager tutorial](creating_new_application/contact_manager_tutorial.md)
 * [Managing existing applications](managing_existing_application.md)
-* On-line help
 
