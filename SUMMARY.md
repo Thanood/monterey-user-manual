@@ -7,6 +7,7 @@
    * [Monterey future plans](introduction/montereyfuture_evolution.md)
 * [Installing Monterey](installing_monterey.md)
 * [Online help](online_help.md)
+   * Live tour
 * [Features](features.md)
    * [App launcher](features/app_launcher.md)
    * [Aurelia-CLI](features/aurelia-cli.md)
