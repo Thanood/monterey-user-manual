@@ -46,7 +46,7 @@ Image 2
 
 <br>
 
-Click on the **`Next`** button (Image 1, marker 2) results with the view shown on Image 2, above results with the information about Monterey's main view sidebar, which keeps track of user's projects
+Click on the **`Next`** button (Image 2, marker 2) results with the view shown on Image 3, below with the information about Monterey's main view sidebar (marker 1, which keeps track of user's projects
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18611449/a4c8ed10-7d07-11e6-8680-59fed717118a.png"></img>
