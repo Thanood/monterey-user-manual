@@ -6,7 +6,7 @@
    * [Monterey and module loaders](introduction/monterey_and_module_loaders.md)
    * [Monterey future plans](introduction/montereyfuture_evolution.md)
 * [Installing Monterey](installing_monterey.md)
-* [Online help](online_help.md)
+* [Help system](online_help.md)
    * [Live tour](online_help/live_tour.md)
    * [Tooltip based help](unline_help/tooltip_based_help.md)
 * [Features](features.md)
