@@ -64,6 +64,17 @@ Click on the **`Next`** button (Image 3, marker 2) results with the view shown o
 Image 4
 </p>
 
+<br>
+
+Click on the **`Next`** button (Image 4, marker 2) results with Image 5 below, highlighing the **Support button** (marker 2) on Monterey's toolbar (marker 1) which (when clicked) provides access to the **[Support panel]()**:
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18611594/d51c7730-7d0b-11e6-83cc-9d7794ebd9a5.png"></img>
+ <br><br>
+Image 5
+</p>
+
+
 
 
 
