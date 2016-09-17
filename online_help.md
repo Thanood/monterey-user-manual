@@ -1,4 +1,4 @@
-# Online help
+# Help system
 
 The most basic definition of Monterey is very simple (as stated in the [README.md file](https://github.com/monterey-framework/monterey/blob/master/README.md) of the [Monterey GitHub repository](https://github.com/monterey-framework/monterey): 
 
