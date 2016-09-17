@@ -46,7 +46,7 @@ Image 2
 
 <br>
 
-Click on the **`Next`** button (Image 2, marker 2) results with the view shown on Image 3, below with the information about Monterey's main view sidebar (marker 1, which keeps track of user's projects
+Click on the **`Next`** button (Image 2, marker 2) results with the view shown on Image 3, below with the information about Monterey's main view sidebar (marker 1), which keeps track of user's projects
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18611449/a4c8ed10-7d07-11e6-8680-59fed717118a.png"></img>
@@ -55,6 +55,15 @@ Image 3
 </p>
 
 <br>
+
+Click on the **`Next`** button (Image 3, marker 2) results with the view shown on Image 4, below with the information about Monterey's collection of **`tiles`** (marker 1), which are the primary means of invoking Monterey's "internal" tools (like **`NPM manager`**, **`App Launcher`**, etc), or **integrated** "external" tools (**`File explorer`**, **`Chrome browser`** or **`GistRun`**).
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18611529/ceb21762-7d09-11e6-84d1-03dfec52b5ef.png"></img>
+ <br><br>
+Image 4
+</p>
+
 
 
 
