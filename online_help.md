@@ -9,8 +9,10 @@ Monterey is a complex tool being able to do many very different things:
   - [JSPM manager](./content/features/jspm_manager.html)
   - [Webpack manager](./content/features/webpack.html)
 
-- [Defining the details of application build process ]()
 
-- []()
+- Defining the details of application build process
+  - [Gulp manager]()
+  - [Task manager]()
+  - [Workflow manager]()
 
-- []()
+as well as several other services that are still under the development.
