@@ -36,13 +36,27 @@ Image 1
 
 <br>
 
-Click on the **`Next`** button (Image 1, marker 1) results with the view shown on Image 2, below, highlighting and explaining the most important top level buttons in Monterey app
+Click on the **`Next`** button (Image 1, marker 1) results with the view shown on Image 2, below, highlighting and explaining the most important top level buttons in Monterey app (marker 1)
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18611421/b6c51f80-7d06-11e6-996f-d08830ffc90b.png"></img>
  <br><br>
 Image 2
 </p>
+
+<br>
+
+Click on the **`Next`** button (Image 1, marker 2) results with the view shown on Image 2, above results with:
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18611449/a4c8ed10-7d07-11e6-8680-59fed717118a.png"></img>
+ <br><br>
+Image 3
+</p>
+
+<br>
+
+
 
 
 
