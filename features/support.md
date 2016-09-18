@@ -3,8 +3,12 @@ _Features_
 
 Monterey offers two basic types of support as indicated on the image 1 below:
 
-1. **Documentation** - (marker 1), providing references to three on-line documents
-
+1. **Documentation** - (marker 1), providing references to three on-line documents:
+  - [User manual (this document)]()
+  - [Monterey overview]()
+  - [Monterey technical documentation]()
+<br>
+<br>
 2. **Problem reporting** - (marker 2) see the **next (Image 2) below** for details
 
 In addition, the support panel provides the user interface to start the **[live tour of the User Interface](../online_help/live_tour.html)** (marker 3).
