@@ -10,7 +10,7 @@ In addition to tiles, this document explains the function of **Monterey toolbar 
 
 <br>
 
-This document provides more details on these plugins and Toolbar items:
+This document provides more details on these **plugins and Toolbar** items:
 
 - **[About](../introduction/what_is_monterey.html)**
 - **[App launcher](./features/app_launcher.html)**
