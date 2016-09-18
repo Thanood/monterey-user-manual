@@ -1,11 +1,11 @@
 # Features
 
-**Features** is the alternative name for the collection of Monterey plugins - also know as **Tiles** (highlighted by the red rectangle in the screenshot below - marker 1). We call them plugins, because they are user installable, where the **[App launcher](./features/app_launcher.html)** (built in) feature provides the GUI interface to the process of creation of new user defined features.
+**Features** is the alternative name for the collection of Monterey plugins - also know as **Tiles** (highlighted by the red rectangle in the screenshot below - marker 1). We call them plugins, because they are user installable, where the **[App launcher](./features/app_launcher.html)** (built in) feature provides the GUI interface to the process of creation of **new** user defined features.
 
-In addition to tiles, this document explains the function of Monterey toolbar items (marker 2), conventiently placed in the Monterey footer
+In addition to tiles, this document explains the function of **Monterey toolbar items** (marker 2), conventiently placed in the Monterey footer
 
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18617725/714926ec-7da4-11e6-88ad-f59c422e9b77.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18618165/c7ceeb28-7dae-11e6-8fa9-61f36276a31e.png"></img>
 </p>
 
 <br>
