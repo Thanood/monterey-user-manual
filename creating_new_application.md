@@ -20,7 +20,7 @@ In order to increase the spectrum of supported applications, Monterey adds all s
 The last category of templates is accessible wia **GitHub** entry on the project templates list. As you will see, this is the most universal template as it allows you to use any existing Aurelia project existing in [GitHub](https://github.com/) as the start. Check the **[GitHub](./creating_new_application/github.html)** page of this document, as an example of such approach.
 
 
-All subsections of this chapter:
+All subsections of this chapter on creating new applications:
 
 - [Aurelia-CLI](../creating_new_application/aurelia-cli.html)
 - [skeleton-esnext-aspnetcore](creating_new_application/skeleton-esnext-aspnetcore.html)
