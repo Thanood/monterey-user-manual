@@ -21,7 +21,7 @@ This document provides more details on these plugins and Toolbar items:
 - **[NPM manager](./features/npm_manager.html)**
 - **[Preferences](./features/preferences.html)**
 - **[Project info](./features/project_info.html)**
-- **[Run]()
+- **[Run](./features/run.html)
 - **[Support](./features/support.html)**
 - **[Task manager](./features/task_manager.html)**
 - **[Terminal](./features/terminal.html)**
