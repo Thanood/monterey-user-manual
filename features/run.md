@@ -1,5 +1,4 @@
 _Features_
-# Run
 
 <h3 style="float: left">Run</h3>
 <p style="float: left">
