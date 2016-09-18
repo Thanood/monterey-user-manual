@@ -3,9 +3,10 @@
 Current Monterey supports eight different template types for new application creation - as shown on this image below
 
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18231111/38b0e324-727d-11e6-8a80-e4a824aca40d.png"></img>
- <br><br>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18612313/d92818c0-7d24-11e6-9500-e6509000fb4e.png"></img>
+ <br>
 </p>
+
 
 <br>
 
