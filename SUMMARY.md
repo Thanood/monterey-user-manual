@@ -39,5 +39,5 @@
    * [GitHub](creating_new_application/github.md)
        * [Contact manager tutorial](creating_new_application/contact_manager_tutorial.md)
 * [Managing existing applications](managing_existing_application.md)
-* Reaching support
+* [Reaching support](reaching_support.md)
 
