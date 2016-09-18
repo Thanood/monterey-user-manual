@@ -17,7 +17,33 @@ In addition, the support panel provides the user interface to start the **[live 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18618827/a0c34aac-7dbc-11e6-9c88-e51092de7b1e.png"></img>
  <br><br>
+Image 1
+</p>
+
+<br><br>
+
+#### Problem reporting
+
+Selecting the **`Report an issue`** tab (Image 2, marker 1) allows you to select between two options - real time chat in Gitter (marker 2) or problem reporting in Github (marker 3):
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18619051/975ad562-7dc0-11e6-9012-947d5a890fb1.png"></img>
+ <br><br>
+Image 2
+</p>
+
+<br>
+
+**[Gitter chat room](https://gitter.im/monterey-framework/monterey)**: this is the place to discuss your issues (not neccessary problems only) with other Monterey users and AureliaTools (folks that created Monterey) team members.
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18619107/c948707e-7dc1-11e6-87be-084ba1b27fb9.png"></img>
+ <br><br>
 Image 3
 </p>
+
+
+
+
 
 
