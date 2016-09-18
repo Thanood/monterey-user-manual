@@ -13,7 +13,6 @@ In addition to tiles, this document explains the function of **Monterey toolbar 
 This document provides more details on these plugins and Toolbar items:
 
 - **[App launcher](./features/app_launcher.html)**
-- **[Aurelia-CLI](/features/aurelia-cli.html)**
 - **[Dotnet](./features/dotnet)**
 - **[GistRun](./features/gistrun.html)**
 - **[Error logger](./features/error_logger.html)**
@@ -22,10 +21,10 @@ This document provides more details on these plugins and Toolbar items:
 - **[NPM manager](./features/npm_manager.html)**
 - **[Preferences](./features/preferences.html)**
 - **[Project info](./features/project_info.html)**
+- **[Run]()
 - **[Support](./features/support.html)**
 - **[Task manager](./features/task_manager.html)**
 - **[Terminal](./features/terminal.html)**
-- **[Typings](./features/typings.html)**
 - **[Webpack](./features/webpack.html)**
 
 
