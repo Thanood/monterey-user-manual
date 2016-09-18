@@ -15,7 +15,7 @@ _Features_
 **Screen:**
 <br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18616516/4fe35f68-7d8b-11e6-897f-51247c8a088c.png" width="800"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18616516/4fe35f68-7d8b-11e6-897f-51247c8a088c.png"></img>
  <br><br>
 Image 1
 </p>
