@@ -19,3 +19,13 @@ _Features_
  <br><br>
 Image 1
 </p>
+
+<br>
+
+<br>
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18616650/d5550bfe-7d8d-11e6-8be5-bb28520edc91.png"></img>
+ <br><br>
+Image 3
+</p>
+
