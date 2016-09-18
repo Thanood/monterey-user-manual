@@ -25,7 +25,7 @@ as well as several other services that are still under the development. So, the 
 Knowing that there is a significant "class" of software developers who do not like to read extensive manuals. They typpically prefer to dive "right in", by starting the Monterey and look around by clicking on any part of Monterey user interface. It is for them that we added two more "entries" into the help system:
 
 #### 1. [Live tour of the User Interface](./content/online_help/live_tour.html)
-This approach is built for first time users, so it covers Monterey's main view and it is accessible to first time users. In order to allow it's activation at a later time, we provided the "hidden door" described below:
+This approach is built for first time users, so it covers Monterey's main view and it is accessible to first time users. 
 
 
 
@@ -33,7 +33,10 @@ This approach is built for first time users, so it covers Monterey's main view a
 #### 2. [Tooltip based help](content/unline_help/tooltip_based_help.html)
 
 
+***
+#### Note:
 
+In order to allow the activation of the [Live tour of the User Interface](./content/online_help/live_tour.html)  at a later time, we provided the "hidden door" described below:
 
 
 
