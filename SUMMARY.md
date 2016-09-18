@@ -8,7 +8,6 @@
 * [Installing Monterey](installing_monterey.md)
 * [Help system](online_help.md)
    * [Live tour](online_help/live_tour.md)
-   * [Tooltip based help](online_help/tooltipbased_help_md.md)
 * [Features](features.md)
    * [App launcher](features/app_launcher.md)
    * [Aurelia-CLI](features/aurelia-cli.md)
