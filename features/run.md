@@ -20,20 +20,17 @@ _Features_
 Image 1
 </p>
 
-<br>
 
-<br>
-<p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18616650/d5550bfe-7d8d-11e6-8be5-bb28520edc91.png"></img>
- <br><br>
-Image 2
-</p>
 
-<br>
+Click on the **`Run`** tile starts the execution of the currently selected project (Image 1 **above**, marker 1). The **`Run`** tile changes its glyph (image) to a black square (marker 2) indicating the change of the project state to "running" and the **`Task manager`** toolbar button (marker 3) provides even more information (two parallell tasks running - as this application requires).
+
+<br><br>
+
+The story continues with Image 2, **below**. Observe the same fact explained in the previous paragraph ( **`Task manager`** toolbar button (marker 3) shows 2 tasks running)
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18616680/34955344-7d8e-11e6-9ec3-de5c8b2bd697.png"></img>
  <br><br>
-Image 3
+Image 2
 </p>
 
