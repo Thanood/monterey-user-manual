@@ -4,9 +4,9 @@ _Features_
 Monterey offers two basic types of support as indicated on the image 1 below:
 
 1. **Documentation** - (marker 1), providing references to three on-line documents:
-  - [User manual (this document)]()
-  - [Monterey overview]()
-  - [Monterey technical documentation]()
+  - [User manual (this document)](https://aurelia-ui-toolkits.gitbooks.io/monterey-user-manual/content/)
+  - [Monterey overview](https://aurelia-ui-toolkits.gitbooks.io/monterey-overview/content/)
+  - [Monterey technical documentation](https://aurelia-ui-toolkits.gitbooks.io/monterey-technical-documentation/content/)
 <br>
 <br>
 2. **Problem reporting** - (marker 2) see the **next (Image 2) below** for details
