@@ -8,8 +8,11 @@ _Features_
 <p style="clear: both"></p>
 
 **Tile:**  
-![tile](http://i.imgur.com/sCLoYgJ.png)
-
+<p align=left>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18616543/c606bfb4-7d8b-11e6-933a-eba407c35444.png" width="160"></img>
+ <br><br>
+Image 3
+</p>
 <br>
 **Screen:**
 <br>
