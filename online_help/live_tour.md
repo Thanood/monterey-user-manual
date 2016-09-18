@@ -1,9 +1,7 @@
 _Online help_
-# Live tour
+# Live tour of the User Interface
 
-### 1. Live tour of the User Interface
-
-This is the initial view of Monterey started for the first time: you are prompted by the "tour manager" which covers most UI objects on this (main) view.
+Image 1 shows the initial view of Monterey **started for the first time**: you are prompted by the "tour manager" which provides a brief description of most UI objects on this (main) view.
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18611398/c4443dae-7d05-11e6-9106-8d4196d5da32.png"></img>
