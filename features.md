@@ -4,9 +4,8 @@
 
 In addition to tiles, this document explains the function of Monterey toolbar items (marker 2), conventiently placed in the Monterey footer
 
-<br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18555809/35c703b0-7b37-11e6-9680-94d3d69efa8c.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18617725/714926ec-7da4-11e6-88ad-f59c422e9b77.png"></img>
 </p>
 
 <br>
