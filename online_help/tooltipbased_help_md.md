@@ -1,2 +1,0 @@
-# Tooltip based help
-
