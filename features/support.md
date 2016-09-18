@@ -7,7 +7,7 @@ Monterey offers two basic types of support as indicated on the image 1 below:
 
 2. **Problem reporting** - (marker 2) see the **next (Image 2) below** for details
 
-In addition, the support panel provides the user interface to start the **[live tour of the User Interface](../content/online_help/live_tour.html)** (marker 3).
+In addition, the support panel provides the user interface to start the **[live tour of the User Interface](../online_help/live_tour.html)** (marker 3).
 
 <br>
 <p align=center>
