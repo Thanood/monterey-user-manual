@@ -51,10 +51,13 @@ Image 5
 
 <br>
 
-aaaaa
+At this point we reached the end of the tour - click on the **`Done`** buton to end it.
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18611618/fe643eb0-7d0c-11e6-8634-9032c9e4ca49.png"></img>
  <br><br>
 Image 6
 </p>
+
+***
+***
