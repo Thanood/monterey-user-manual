@@ -12,7 +12,7 @@ In addition to tiles, this document explains the function of **Monterey toolbar 
 
 This document provides more details on these **plugins and Toolbar** items:
 
-- **[About](../introduction/what_is_monterey.html)**
+- **[About](../content/introduction/what_is_monterey.html)**
 - **[App launcher](./features/app_launcher.html)**
 - **[Dotnet](./features/dotnet)**
 - **[GistRun](./features/gistrun.html)**
