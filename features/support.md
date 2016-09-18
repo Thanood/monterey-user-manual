@@ -42,6 +42,15 @@ Image 2
 Image 3
 </p>
 
+**[Monterey issues](https://github.com/monterey-framework/monterey/issues)**: this is the place to create your problem reports by creating a GitHub issue.
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/18619123/8bfde5cc-7dc2-11e6-99f5-fc31ea9e0293.png"></img>
+ <br><br>
+Image 4
+</p>
+
+
 
 
 
