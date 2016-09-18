@@ -1,4 +1,4 @@
-_Online help_
+_Help system_
 # Live tour of the User Interface
 
 Image 1 shows the initial view of Monterey **started for the first time**: you are prompted by the "tour manager" which provides a brief description of most UI objects on this (main) view.
