@@ -25,6 +25,7 @@ New features would include:
 
 - Expanding the current simple implementation of the application `build and run` workflow to support specific profiles like application integrator.
 
+- Integration with https://nuclide.io/docs/features/remote/
 - ...
 
 ### 3. Complete life-cycle management (aka "DevOps")
