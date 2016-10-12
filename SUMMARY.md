@@ -40,7 +40,7 @@
    * [skeleton-typescript](creating_new_application/skeleton-typescript.md)
    * [GitHub](creating_new_application/github.md)
        * [Contact manager tutorial](creating_new_application/contact_manager_tutorial.md)
-       * CM tutorial - KendoUI edition
+       * [CM tutorial - KendoUI edition](creating_new_application/github/cm_tutorial_-_kendoui_edition.md)
 * [Managing existing applications](managing_existing_application.md)
 * [Reaching support](reaching_support.md)
 
