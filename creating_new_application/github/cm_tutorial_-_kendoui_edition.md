@@ -25,12 +25,12 @@ Image 2
 
 <br>
 
-Observe that Monterey "understands" the structure of the repository with the template we want to use and offers you to select a folder where the template "lives" (`kendoui` in this case), as shown on Image 3.
+Observe that Monterey "understands" the structure of the repository with the template we want to use and offers you to select a folder where the template "lives" (`kendoui` in this case), as shown on Image 3, marker 2.
 
 <br>
 
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18108061/997b6722-6ed8-11e6-8c1f-7d5884505682.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/19329389/60492c56-90a6-11e6-8c08-1428e076edb3.png"></img>
  <br><br>
 Image 3
 </p>
@@ -40,6 +40,7 @@ Image 3
 Click on the `Next` button on Image 3, Monterey prompts for the name of the application to be created (Image 4), using the chosen folder name as the placeholder. In this situation, we should accept this name.
 
 <br>
+
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18108133/f2735790-6ed8-11e6-9661-288bd065cdd8.png"></img>
  <br><br>
