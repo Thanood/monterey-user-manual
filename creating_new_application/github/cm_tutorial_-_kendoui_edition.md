@@ -14,20 +14,19 @@ Image 1
 
 <br>
 
-This template is persisted in GitHub (note that this approach can result with a huge number of templates, with very easy access as the next screen-shot (Image 2) shows: you simply copy the repository URL into clipboard and then paste it in the `GitHub URL` field as shown on Image 3.
+This template is persisted in GitHub (note that this approach can result with a huge number of templates, with very easy access as the next screen-shot (Image 2) shows: you simply copy the repository URL (https://github.com/aurelia-ui-toolkits/cm-bridges) into clipboard and then paste it in the `GitHub URL` field as shown on Image 3.
 
 <br>
-<p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18107800/71e539be-6ed7-11e6-8bb5-1b095d259682.png"></img>
 
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/19329389/60492c56-90a6-11e6-8c08-1428e076edb3.png"></img>
+ <br><br>
 Image 2
 </p>
 
 <br>
 
 Observe that Monterey "understands" the structure of the repository with the template we want to use and offers you to select a folder where the template "lives" (`kendoui` in this case), as shown on Image 3, marker 2.
-
-<br>
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/19329389/60492c56-90a6-11e6-8c08-1428e076edb3.png"></img>
