@@ -6,7 +6,7 @@ This document is not a tutorial on KendoUI bridge base application development -
 The source code for for the Contact Manager tutorial - KendoUI edition is [here](https://github.com/aurelia-ui-toolkits/cm-bridges/tree/master/kendoui), and this article will describe the details of changes applied to the **application configuration files**.
 
 ### 1. [package.json](https://github.com/aurelia-ui-toolkits/cm-bridges/blob/master/kendoui/package.json)
-Added references to as specific versions of jQuery and aurelia-kendoui-bridge
+Add references to as specific versions of jQuery and aurelia-kendoui-bridge
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/19351324/4fdaf966-9129-11e6-845d-28063a4521a1.png"></img>
  <br><br>
