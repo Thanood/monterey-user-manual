@@ -20,7 +20,7 @@ Image 1
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/19351777/15f7134a-912b-11e6-8893-00aa320518fa.png"></img>
  <br><br>
-Image 1
+Image 2
 </p>
 <br>
 
