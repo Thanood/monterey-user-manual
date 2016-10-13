@@ -41,7 +41,7 @@
    * [GitHub](creating_new_application/github.md)
        * [Contact manager tutorial](creating_new_application/contact_manager_tutorial.md)
        * [CM tutorial - KendoUI edition](creating_new_application/github/cm_tutorial_-_kendoui_edition.md)
-           * Differences from the original version
+           * [Differences from the original version](creating_new_application/github/cm_tutorial_-_kendoui_edition/differences_from_the_original_version.md)
 * [Managing existing applications](managing_existing_application.md)
 * [Reaching support](reaching_support.md)
 
