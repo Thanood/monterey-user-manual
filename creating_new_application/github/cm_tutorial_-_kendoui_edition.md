@@ -44,6 +44,7 @@ Click on the `Next` button on Image 3, marker 3, Monterey prompts for the name o
   <img src="https://cloud.githubusercontent.com/assets/2712405/19330914/5e55c702-90af-11e6-801b-9310c04d51c4.png"></img>
  <br><br>
 Image 4
+
 </p>
 
 <br>
