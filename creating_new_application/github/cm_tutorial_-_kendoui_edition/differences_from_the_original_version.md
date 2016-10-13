@@ -1,3 +1,4 @@
 _Creating new application_ | _GitHub_ | _CM tutorial - KendoUI edition_
 # Differences from the original version
 
+This document is not a tutorial on KendoUI bridge base application development - check [Aurelia KendoUI Bridge](https://aurelia-ui-toolkits.github.io/demo-kendo-beta) to learn more. Similarly this document does not teach you about [RequireJS module loader](http://requirejs.org/). Instead it will show you how to manually enhance the [original Contact Manager tutorial](http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/contact-manager-tutorial) to use KendoUI bridge and render its view using Aurelia KendoUI components, instead of using Bootstrap.
