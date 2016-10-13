@@ -6,10 +6,23 @@ This document is not a tutorial on KendoUI bridge base application development -
 The source code for for the Contact Manager tutorial - KendoUI edition is [here](https://github.com/aurelia-ui-toolkits/cm-bridges/tree/master/kendoui), and this article will describe all changes applied to the files in this folder.
 
 ### 1. [package.json](https://github.com/aurelia-ui-toolkits/cm-bridges/blob/master/kendoui/package.json)
-
+Added references to as specific versions of jQuery and aurelia-kendoui-bridge
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/19351324/4fdaf966-9129-11e6-845d-28063a4521a1.png"></img>
  <br><br>
 Image 1
 </p>
+
+<br>
+
+### 2. [aurelia.json](https://github.com/aurelia-ui-toolkits/cm-bridges/blob/master/kendoui/aurelia_project/aurelia.json)
+- Set `"stub: false` in the loader section:
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/19351777/15f7134a-912b-11e6-8893-00aa320518fa.png"></img>
+ <br><br>
+Image 1
+</p>
+<br>
+
+
 
