@@ -51,9 +51,8 @@ Image 4
 
 Click on the `Next` button (marker 1 on Image 4) results with the project's configuration  view (Image 5)
 
-<br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18108259/8465d218-6ed9-11e6-80fa-35b7c680a3eb.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/19335350/8099313e-90d0-11e6-93b9-9012f1abb238.png"></img>
  <br><br>
 Image 5
 </p>
