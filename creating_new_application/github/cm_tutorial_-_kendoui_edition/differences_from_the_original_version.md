@@ -22,7 +22,26 @@ Image 1
  <br><br>
 Image 2
 </p>
-<br>
+
+- Add the code 
+ ```
+           {
+            "name": "aurelia-kendoui-bridge",
+            "path": "../node_modules/aurelia-kendoui-bridge/dist/amd",
+            "main": "index"
+          }
+ ```
+ to the [dependencies section](https://github.com/aurelia-ui-toolkits/cm-bridges/blob/master/kendoui/aurelia_project/aurelia.json#L94-L160)
+ 
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/19351954/ccb4eac6-912b-11e6-95ca-87f92980a7e1.png"></img>
+ <br><br>
+Image 3
+</p>
+
+
+
+
 
 
 
