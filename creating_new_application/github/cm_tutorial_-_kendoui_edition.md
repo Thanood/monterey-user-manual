@@ -65,9 +65,8 @@ Another important point: Monterey is fully capable to detect the "type" of each 
 
 In this specific case, please accept all options, ensuring that the build process will start as soon as you click on the `Next` button (marker 1 on Image 6)
 
-<br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18108367/e7ba5474-6ed9-11e6-9aec-45b59b8f8723.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/19335508/e2d8fa0e-90d1-11e6-827f-eda462fb231f.png"></img>
  <br><br>
 Image 6
 </p>
@@ -87,27 +86,18 @@ Image 7
 
 <br>
 
-This next screenshot (Image 8) was taken nearly 8 minutes after the build process finished and the `au run --watch` task was created. At this point, the reasonable next step would be to **close** Task manager view (Image 8, marker 1), resulting with the "main view" (Image 9)
+At this point, the reasonable next step would be to **close** Task manager view (Image 7) resulting with the "main view" (Image 8)
 
-<br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18108425/24d76ef0-6eda-11e6-9ba1-dbacfa54db7a.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/19335616/ab250a70-90d2-11e6-844d-3818661e6c2d.png"></img>
  <br><br>
 Image 8
 </p>
 
 <br>
 
-Monterey is also able to find out the running application's URL - meaning that you just have to click on the `Chrome tile` (Image 9, marker 1) in order to see the application running (Image 10)
+Monterey is also able to find out the running application's URL - meaning that you just have to click on the `Chrome tile` (Image 8, marker 1) in order to see the application running (Image 9)
 
-<br>
-<p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18108449/40b6d8f4-6eda-11e6-97a8-1b4165947417.png"></img>
- <br><br>
-Image 9
-</p>
-
-<br>
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/18227564/7fa4e92e-71f6-11e6-8e07-cf214af15007.png"></img>
  <br><br>
