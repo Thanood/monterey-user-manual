@@ -39,6 +39,12 @@ Image 2
 Image 3
 </p>
 
+**Note**: the rest of the changes required to change the application rendering are of course specific to  Aurelia KendoUI components. Check the following files for details:
+
+- [contact-list](https://github.com/aurelia-ui-toolkits/cm-bridges/blob/master/kendoui/src/contact-list.html) replaced the original bootstrap list with KendoUI panel bar.
+
+
+
 
 
 
