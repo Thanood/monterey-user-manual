@@ -104,6 +104,13 @@ Monterey is also able to find out the running application's URL - meaning that y
 Image 9
 </p>
 
+<br>
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/19335832/5e6003c8-90d4-11e6-9d38-e9074d5d9dd3.png"></img>
+ <br><br>
+Image 10
+</p>
 
 <br>
 
