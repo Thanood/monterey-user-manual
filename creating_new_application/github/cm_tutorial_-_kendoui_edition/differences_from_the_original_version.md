@@ -43,9 +43,12 @@ Image 3
 
 - [contact-list](https://github.com/aurelia-ui-toolkits/cm-bridges/blob/master/kendoui/src/contact-list.html) replaced the original bootstrap list with KendoUI panel bar.
 
+- [app](https://github.com/aurelia-ui-toolkits/cm-bridges/blob/master/kendoui/src/app.html) added KendoUI tab strip
 
+- new component [contact-grid](https://github.com/aurelia-ui-toolkits/cm-bridges/blob/master/kendoui/src/contact-grid.html).
 
-
+***
+***
 
 
 
