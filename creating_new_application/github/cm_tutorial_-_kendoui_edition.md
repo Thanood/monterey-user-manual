@@ -99,10 +99,11 @@ Image 8
 Monterey is also able to find out the running application's URL - meaning that you just have to click on the `Chrome tile` (Image 8, marker 1) in order to see the application running (Image 9)
 
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/18227564/7fa4e92e-71f6-11e6-8e07-cf214af15007.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/19335794/0f7dfbde-90d4-11e6-9f0e-87d13dc90d63.png"></img>
  <br><br>
-Image 10
+Image 9
 </p>
+
 
 <br>
 
