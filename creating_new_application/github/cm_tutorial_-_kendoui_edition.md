@@ -14,7 +14,7 @@ Image 1
 
 <br>
 
-This template is persisted in GitHub (note that this approach can result with a huge number of templates, with very easy access as the next screen-shot (Image 2) shows: you simply copy the repository URL (https://github.com/aurelia-ui-toolkits/cm-bridges) into clipboard and then paste it in the `GitHub URL` field as shown on Image 3.
+This template is persisted in GitHub (note that this approach can result with a huge number of templates) with very easy access as the next screen-shot (Image 2) shows: you simply copy the repository URL (https://github.com/aurelia-ui-toolkits/cm-bridges) into clipboard and then paste it in the `GitHub URL` field as shown on Image 3.
 
 <br>
 
