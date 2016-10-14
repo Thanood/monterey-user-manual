@@ -17,12 +17,8 @@ Image 1
 This template is persisted in GitHub (note that this approach can result with a huge number of templates) with very easy access as the next screen-shot (Image 2) shows: you simply copy the repository URL (https://github.com/aurelia-ui-toolkits/cm-bridges) into clipboard and then paste it in the `GitHub URL` field as shown on Image 3.
 
 <br>
-
-<p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/19329389/60492c56-90a6-11e6-8c08-1428e076edb3.png"></img>
- <br><br>
+![](cm-tutorial-step-1.png)
 Image 2
-</p>
 
 <br>
 
