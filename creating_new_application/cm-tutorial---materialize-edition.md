@@ -24,11 +24,9 @@ Image 2
 
 Observe that Monterey "understands" the structure of the repository with the template we want to use and offers you to select a folder where the template "lives" (`kendoui` in this case), as shown on Image 3, marker 2.
 
-<p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/19330854/e41cf500-90ae-11e6-9d50-2ebb7f33bad1.png"></img>
- <br><br>
+![image](https://cloud.githubusercontent.com/assets/677826/19489712/9aba7226-956c-11e6-9a1c-97b4a833c15e.png)
+
 Image 3
-</p>
 
 <br>
 
@@ -36,16 +34,13 @@ Click on the `Next` button on Image 3, marker 3, Monterey prompts for the name o
 
 <br>
 
-<p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/19330914/5e55c702-90af-11e6-801b-9310c04d51c4.png"></img>
- <br><br>
-Image 4
+![image](https://cloud.githubusercontent.com/assets/677826/19489791/f12f53f6-956c-11e6-93bf-a2daecb5400a.png)
 
-</p>
+Image 4
 
 <br>
 
-Click on the `Next` button (marker 1 on Image 4) results with the project's configuration  view (Image 5)
+Click on the `Next` button results with the project's configuration  view (Image 5)
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/19335350/8099313e-90d0-11e6-93b9-9012f1abb238.png"></img>
@@ -94,19 +89,10 @@ Image 8
 
 Monterey is also able to find out the running application's URL - meaning that you just have to click on the `Chrome tile` (Image 8, marker 1) in order to see the application running (Image 9)
 
-<p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/19335794/0f7dfbde-90d4-11e6-9f0e-87d13dc90d63.png"></img>
- <br><br>
+![image](https://cloud.githubusercontent.com/assets/677826/19490310/ef33d8f4-956e-11e6-8c1d-45034267a61c.png)
+
+
 Image 9
-</p>
-
-<br>
-
-<p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/19335832/5e6003c8-90d4-11e6-9d38-e9074d5d9dd3.png"></img>
- <br><br>
-Image 10
-</p>
 
 <br>
 
