@@ -74,6 +74,18 @@ export default function prepareMaterialize() {
 }
 ```
 
+- load the copied `materialize.min.css` from `index.html`:
+
+```html
+<link rel="stylesheet" href="styles/materialize.min.css">
+```
+
+Here is what happens:
+
+- the prepare-materialize task copies fonts to /fonts and css to /styles
+- in materialize.css fonts are referenced by ../fonts/roboto-something.woff
+- index.html should now reference the materialize.css from point 1
+
 ### 3. [aurelia.json](https://github.com/aurelia-ui-toolkits/cm-bridges/blob/master/materialize/aurelia_project/aurelia.json)
 - Set `"stub: false` in the loader section:
 <p align=center>
